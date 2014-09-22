@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<item type="cannon"> 		<!-- id标示 -->
+		<level>1</level>
+		<attackRadius>100</attackRadius>
+		<attackPowerMax>18</attackPowerMax> <!-- 0-20攻击力 -->
+		<attackPowerMin>13</attackPowerMin>
+		<buildTime>1</buildTime>
+		<bootMoney1>220</bootMoney1>
+		<coolTime>2000</coolTime>
+		<isAttackFlying>0</isAttackFlying><!--0代表false -->
+	</item>
+	<item type="cannon"> 		<!-- id标示 -->
+		<level>2</level>
+		<attackRadius>110</attackRadius>
+		<attackPowerMax>22</attackPowerMax> <!-- 0-20攻击力 -->
+		<attackPowerMin>17</attackPowerMin>
+		<buildTime>1</buildTime>
+		<bootMoney1>320</bootMoney1>
+		<coolTime>1800</coolTime>
+		<isAttackFlying>0</isAttackFlying><!--0代表false -->
+	</item>
+	<item type="cannon"> 		<!-- id标示 -->
+		<level>3</level>
+		<attackRadius>120</attackRadius>
+		<attackPowerMax>27</attackPowerMax> <!-- 0-20攻击力 -->
+		<attackPowerMin>23</attackPowerMin>
+		<buildTime>1</buildTime>
+		<bootMoney1>400</bootMoney1>
+		<coolTime>1500</coolTime>
+		<isAttackFlying>0</isAttackFlying><!--0代表false -->
+	</item>
+	<item type="cannon"> 		<!-- id标示 -->
+		<level>4</level>
+		<attackRadius>130</attackRadius>
+		<attackPowerMax>35</attackPowerMax> <!-- 0-20攻击力 -->
+		<attackPowerMin>26</attackPowerMin>
+		<buildTime>1</buildTime>
+		<bootMoney1>0</bootMoney1>
+		<coolTime>1000</coolTime>
+		<isAttackFlying>0</isAttackFlying><!--0代表false -->
+	</item>
+
+	<item type="arrow"> 		<!-- id标示 -->
+		<level>1</level>
+		<attackRadius>80</attackRadius>
+		<attackPowerMax>7</attackPowerMax> <!-- 0-20攻击力 -->
+		<attackPowerMin>4</attackPowerMin>
+		<buildTime>1</buildTime>
+		<bootMoney1>110</bootMoney1>
+		<coolTime>1500</coolTime>
+		<isAttackFlying>0</isAttackFlying><!--0代表false -->
+	</item>
+	<item type="arrow"> 		<!-- id标示 -->
+		<level>2</level>
+		<attackRadius>100</attackRadius>
+		<attackPowerMax>10</attackPowerMax> <!-- 0-20攻击力 -->
+		<attackPowerMin>7</attackPowerMin>
+		<buildTime>1</buildTime>
+		<bootMoney1>160</bootMoney1>
+		<coolTime>1200</coolTime>
+		<isAttackFlying>0</isAttackFlying><!--0代表false -->
+	</item>
+	<item type="arrow"> 		<!-- id标示 -->
+		<level>3</level>
+		<attackRadius>130</attackRadius>
+		<attackPowerMax>14</attackPowerMax> <!-- 0-20攻击力 -->
+		<attackPowerMin>10</attackPowerMin>
+		<buildTime>1</buildTime>
+		<bootMoney1>230</bootMoney1>
+		<coolTime>1000</coolTime>
+		<isAttackFlying>0</isAttackFlying><!--0代表false -->
+	</item>
+	<item type="arrow"> 		<!-- id标示 -->
+		<level>4</level>
+		<attackRadius>150</attackRadius>
+		<attackPowerMax>17</attackPowerMax> <!-- 0-20攻击力 -->
+		<attackPowerMin>14</attackPowerMin>
+		<buildTime>1</buildTime>
+		<bootMoney1>0</bootMoney1>
+		<coolTime>500</coolTime>
+		<isAttackFlying>0</isAttackFlying><!--0代表false -->
+	</item>
+	<item type="magic"> 		<!-- id标示 -->
+		<level>1</level>
+		<attackRadius>90</attackRadius>
+		<attackPowerMax>12</attackPowerMax> <!-- 0-20攻击力 -->
+		<attackPowerMin>9</attackPowerMin>
+		<buildTime>1</buildTime>
+		<bootMoney1>160</bootMoney1>
+		<coolTime>2000</coolTime>
+		<isAttackFlying>0</isAttackFlying><!--0代表false -->
+	</item>
+	<item type="magic"> 		<!-- id标示 -->
+		<level>2</level>
+		<attackRadius>110</attackRadius>
+		<attackPowerMax>20</attackPowerMax> <!-- 0-20攻击力 -->
+		<attackPowerMin>15</attackPowerMin>
+		<buildTime>1</buildTime>
+		<bootMoney1>220</bootMoney1>
+		<coolTime>1500</coolTime>
+		<isAttackFlying>0</isAttackFlying><!--0代表false -->
+	</item>
+	<item type="magic"> 		<!-- id标示 -->
+		<level>3</level>
+		<attackRadius>130</attackRadius>
+		<attackPowerMax>30</attackPowerMax> <!-- 0-20攻击力 -->
+		<attackPowerMin>24</attackPowerMin>
+		<buildTime>1</buildTime>
+		<bootMoney1>300</bootMoney1>
+		<coolTime>1200</coolTime>
+		<isAttackFlying>0</isAttackFlying><!--0代表false -->
+	</item>
+	<item type="magic"> 		<!-- id标示 -->
+		<level>4</level>
+		<attackRadius>150</attackRadius>
+		<attackPowerMax>40</attackPowerMax> <!-- 0-20攻击力 -->
+		<attackPowerMin>36</attackPowerMin>
+		<buildTime>1</buildTime>
+		<bootMoney1></bootMoney1>
+		<coolTime>1000</coolTime>
+		<isAttackFlying>0</isAttackFlying><!--0代表false -->
+	</item>
+	<item type="shield"> 		<!-- id标示 -->
+		<level>1</level>
+		<attackRadius>10</attackRadius>
+		<attackPowerMax>8</attackPowerMax> <!-- 0-20攻击力 -->
+		<attackPowerMin>6</attackPowerMin>
+		<buildTime>1</buildTime>
+		<bootMoney1>110</bootMoney1>
+		<coolTime>2000</coolTime>
+		<isAttackFlying>0</isAttackFlying><!--0代表false -->
+	</item>
+	<item type="shield"> 		<!-- id标示 -->
+		<level>2</level>
+		<attackRadius>10</attackRadius>
+		<attackPowerMax>8</attackPowerMax> <!-- 0-20攻击力 -->
+		<attackPowerMin>6</attackPowerMin>
+		<buildTime>1</buildTime>
+		<bootMoney1>160</bootMoney1>
+		<coolTime>2000</coolTime>
+		<isAttackFlying>0</isAttackFlying><!--0代表false -->
+	</item>
+	<item type="shield"> 		<!-- id标示 -->
+		<level>3</level>
+		<attackRadius>10</attackRadius>
+		<attackPowerMax>8</attackPowerMax> <!-- 0-20攻击力 -->
+		<attackPowerMin>6</attackPowerMin>
+		<buildTime>1</buildTime>
+		<bootMoney1>230</bootMoney1>
+		<coolTime>2000</coolTime>
+		<isAttackFlying>0</isAttackFlying><!--0代表false -->
+	</item>
+	<item type="shield"> 		<!-- id标示 -->
+		<level>4</level>
+		<attackRadius>10</attackRadius>
+		<attackPowerMax>8</attackPowerMax> <!-- 0-20攻击力 -->
+		<attackPowerMin>6</attackPowerMin>
+		<buildTime>1</buildTime>
+		<bootMoney1></bootMoney1>
+		<coolTime>2000</coolTime>
+		<isAttackFlying>0</isAttackFlying><!--0代表false -->
+	</item>
+</root>

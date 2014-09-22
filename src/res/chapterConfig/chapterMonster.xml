@@ -1,0 +1,3081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<chapter id="1">
+		<item wave="1" lineId="1" time="0" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="0" time="1" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="0" time="2" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="1" time="3" monsterType="20" monsterLevel="1" />
+		<item wave="2" lineId="0" time="13" monsterType="20"
+			monsterLevel="1" />
+		<item wave="2" lineId="0" time="15" monsterType="20"
+			monsterLevel="1" />
+		<item wave="2" lineId="1" time="17" monsterType="20"
+			monsterLevel="1" />
+		<item wave="2" lineId="0" time="18" monsterType="20"
+			monsterLevel="1" />
+		<item wave="3" lineId="1" time="28" monsterType="21"
+			monsterLevel="1" />
+		<item wave="3" lineId="1" time="29" monsterType="21"
+			monsterLevel="1" />
+		<item wave="3" lineId="0" time="31" monsterType="21"
+			monsterLevel="1" />
+		<item wave="3" lineId="0" time="32" monsterType="21"
+			monsterLevel="1" />
+
+		<item wave="4" lineId="1" time="45" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="0" time="45" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="1" time="46" monsterType="21"
+			monsterLevel="1" />
+
+		<item wave="5" lineId="0" time="55" monsterType="22"
+			monsterLevel="1" />
+		<item wave="5" lineId="1" time="55" monsterType="22"
+			monsterLevel="1" />
+		<item wave="5" lineId="0" time="57" monsterType="22"
+			monsterLevel="1" />
+		<item wave="5" lineId="1" time="59" monsterType="22"
+			monsterLevel="1" />
+
+		<item wave="6" lineId="0" time="66" monsterType="20"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="66" monsterType="21"
+			monsterLevel="1" />
+		<item wave="6" lineId="0" time="67" monsterType="22"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="67" monsterType="21"
+			monsterLevel="1" />
+
+		<item wave="7" lineId="0" time="74" monsterType="21"
+			monsterLevel="1" />
+		<item wave="7" lineId="1" time="74" monsterType="20"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="75" monsterType="21"
+			monsterLevel="1" />
+		<item wave="7" lineId="1" time="75" monsterType="21"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="76" monsterType="21"
+			monsterLevel="1" />
+		<item wave="7" lineId="1" time="76" monsterType="20"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="77" monsterType="20"
+			monsterLevel="1" />
+	</chapter>
+
+	<chapter id="2">
+		<item wave="1" lineId="1" time="0" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="0" time="1" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="0" time="1" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="1" time="1" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="0" time="2" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="0" time="3" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="1" time="2" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="0" time="3" monsterType="20" monsterLevel="1" />
+
+		<item wave="2" lineId="1" time="23" monsterType="20"
+			monsterLevel="1" />
+		<item wave="2" lineId="0" time="23" monsterType="20"
+			monsterLevel="1" />
+		<item wave="2" lineId="0" time="24" monsterType="20"
+			monsterLevel="1" />
+		<item wave="2" lineId="1" time="24" monsterType="20"
+			monsterLevel="1" />
+		<item wave="2" lineId="0" time="25" monsterType="20"
+			monsterLevel="1" />
+		<item wave="2" lineId="1" time="25" monsterType="20"
+			monsterLevel="1" />
+		<item wave="2" lineId="0" time="28" monsterType="20"
+			monsterLevel="1" />
+		<item wave="2" lineId="1" time="28" monsterType="20"
+			monsterLevel="1" />
+		<item wave="2" lineId="0" time="29" monsterType="20"
+			monsterLevel="1" />
+		<item wave="2" lineId="1" time="29" monsterType="20"
+			monsterLevel="1" />
+		<item wave="2" lineId="0" time="30" monsterType="20"
+			monsterLevel="1" />
+		<item wave="2" lineId="1" time="30" monsterType="20"
+			monsterLevel="1" />
+
+		<item wave="3" lineId="1" time="50" monsterType="21"
+			monsterLevel="1" />
+		<item wave="3" lineId="0" time="50" monsterType="21"
+			monsterLevel="1" />
+		<item wave="3" lineId="0" time="51" monsterType="21"
+			monsterLevel="1" />
+		<item wave="3" lineId="1" time="52" monsterType="21"
+			monsterLevel="1" />
+		<item wave="3" lineId="0" time="52" monsterType="20"
+			monsterLevel="1" />
+		<item wave="3" lineId="1" time="53" monsterType="20"
+			monsterLevel="1" />
+		<item wave="3" lineId="0" time="53" monsterType="20"
+			monsterLevel="1" />
+		<item wave="3" lineId="1" time="54" monsterType="21"
+			monsterLevel="1" />
+		<item wave="3" lineId="0" time="56" monsterType="20"
+			monsterLevel="1" />
+		<item wave="3" lineId="1" time="58" monsterType="20"
+			monsterLevel="1" />
+		<item wave="3" lineId="1" time="58" monsterType="21"
+			monsterLevel="1" />
+
+
+		<item wave="4" lineId="1" time="78" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="0" time="78" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="1" time="79" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="0" time="79" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="1" time="80" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="0" time="80" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="1" time="80" monsterType="21"
+			monsterLevel="1" />
+
+		<item wave="5" lineId="1" time="88" monsterType="22"
+			monsterLevel="1" />
+		<item wave="5" lineId="0" time="88" monsterType="22"
+			monsterLevel="1" />
+		<item wave="5" lineId="1" time="89" monsterType="22"
+			monsterLevel="1" />
+		<item wave="5" lineId="0" time="89" monsterType="22"
+			monsterLevel="1" />
+		<item wave="5" lineId="1" time="90" monsterType="22"
+			monsterLevel="1" />
+
+		<item wave="6" lineId="1" time="110" monsterType="18"
+			monsterLevel="1" />
+		<item wave="6" lineId="0" time="110" monsterType="18"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="115" monsterType="20"
+			monsterLevel="1" />
+		<item wave="6" lineId="0" time="115" monsterType="20"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="117" monsterType="20"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="117" monsterType="20"
+			monsterLevel="1" />
+		<item wave="6" lineId="0" time="118" monsterType="20"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="118" monsterType="20"
+			monsterLevel="1" />
+
+		<item wave="7" lineId="1" time="138" monsterType="18"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="140" monsterType="18"
+			monsterLevel="1" />
+		<item wave="7" lineId="1" time="143" monsterType="21"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="143" monsterType="21"
+			monsterLevel="1" />
+		<item wave="7" lineId="1" time="144" monsterType="21"
+			monsterLevel="1" />
+		<item wave="7" lineId="1" time="145" monsterType="21"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="147" monsterType="21"
+			monsterLevel="1" />
+		<item wave="7" lineId="1" time="147" monsterType="21"
+			monsterLevel="1" />
+		<item wave="7" lineId="1" time="152" monsterType="22"
+			monsterLevel="1" />
+		<item wave="7" lineId="1" time="153" monsterType="22"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="154" monsterType="22"
+			monsterLevel="1" />
+		<item wave="7" lineId="1" time="155" monsterType="22"
+			monsterLevel="1" />
+	</chapter>
+	<chapter id="3">		  							    <!-- 第三章节 -->
+		<item wave="1" lineId="1" time="0" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="0" time="0" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="2" time="0" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="3" time="0" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="0" time="4" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="1" time="4" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="2" time="4" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="3" time="4" monsterType="20" monsterLevel="1" />
+
+		<item wave="2" lineId="1" time="24" monsterType="18"
+			monsterLevel="1" /> <!--棒槌带队20 -->
+		<item wave="2" lineId="0" time="24" monsterType="18"
+			monsterLevel="1" />
+		<item wave="2" lineId="0" time="30" monsterType="20"
+			monsterLevel="1" />
+		<item wave="2" lineId="1" time="30" monsterType="20"
+			monsterLevel="1" />
+		<item wave="2" lineId="0" time="31" monsterType="20"
+			monsterLevel="1" />
+		<item wave="2" lineId="0" time="32" monsterType="20"
+			monsterLevel="1" />
+		<item wave="2" lineId="1" time="32" monsterType="20"
+			monsterLevel="1" />
+		<item wave="2" lineId="1" time="33" monsterType="20"
+			monsterLevel="1" />
+		<item wave="2" lineId="0" time="34" monsterType="20"
+			monsterLevel="1" />
+		<item wave="2" lineId="0" time="34" monsterType="20"
+			monsterLevel="1" />
+
+		<item wave="3" lineId="2" time="54" monsterType="18"
+			monsterLevel="1" /> <!--棒槌带队21 -->
+		<item wave="3" lineId="3" time="55" monsterType="18"
+			monsterLevel="1" />
+		<item wave="3" lineId="2" time="60" monsterType="21"
+			monsterLevel="1" />
+		<item wave="3" lineId="3" time="61" monsterType="21"
+			monsterLevel="1" />
+		<item wave="3" lineId="2" time="61" monsterType="21"
+			monsterLevel="1" />
+		<item wave="3" lineId="3" time="62" monsterType="21"
+			monsterLevel="1" />
+		<item wave="3" lineId="2" time="62" monsterType="21"
+			monsterLevel="1" />
+		<item wave="3" lineId="3" time="63" monsterType="21"
+			monsterLevel="1" />
+		<item wave="3" lineId="2" time="63" monsterType="21"
+			monsterLevel="1" />
+		<item wave="3" lineId="3" time="64" monsterType="21"
+			monsterLevel="1" />
+
+		<item wave="4" lineId="1" time="84" monsterType="17"
+			monsterLevel="1" /> <!--中途会加血的怪 -->
+		<item wave="4" lineId="0" time="84" monsterType="17"
+			monsterLevel="1" />
+		<item wave="4" lineId="2" time="85" monsterType="17"
+			monsterLevel="1" />
+		<item wave="4" lineId="3" time="85" monsterType="17"
+			monsterLevel="1" />
+		<item wave="4" lineId="0" time="87" monsterType="17"
+			monsterLevel="1" />
+		<item wave="4" lineId="1" time="87" monsterType="17"
+			monsterLevel="1" />
+		<item wave="4" lineId="2" time="89" monsterType="17"
+			monsterLevel="1" />
+		<item wave="4" lineId="3" time="89" monsterType="17"
+			monsterLevel="1" />
+		<item wave="4" lineId="0" time="90" monsterType="17"
+			monsterLevel="1" />
+		<item wave="4" lineId="1" time="90" monsterType="17"
+			monsterLevel="1" />
+
+		<item wave="5" lineId="1" time="110" monsterType="18"
+			monsterLevel="1" /> <!--棒槌带队，会加血的怪 -->
+		<item wave="5" lineId="0" time="110" monsterType="18"
+			monsterLevel="1" />
+		<item wave="5" lineId="0" time="115" monsterType="17"
+			monsterLevel="1" />
+		<item wave="5" lineId="1" time="115" monsterType="17"
+			monsterLevel="1" />
+		<item wave="5" lineId="0" time="116" monsterType="17"
+			monsterLevel="1" />
+		<item wave="5" lineId="0" time="117" monsterType="17"
+			monsterLevel="1" />
+		<item wave="5" lineId="1" time="118" monsterType="17"
+			monsterLevel="1" />
+		<item wave="5" lineId="1" time="119" monsterType="17"
+			monsterLevel="1" />
+		<item wave="5" lineId="0" time="119" monsterType="17"
+			monsterLevel="1" />
+		<item wave="5" lineId="0" time="120" monsterType="17"
+			monsterLevel="1" />
+
+		<item wave="6" lineId="1" time="140" monsterType="18"
+			monsterLevel="1" /> <!--棒槌 -->
+		<item wave="6" lineId="0" time="140" monsterType="18"
+			monsterLevel="1" />
+		<item wave="6" lineId="2" time="141" monsterType="18"
+			monsterLevel="1" />
+		<item wave="6" lineId="3" time="141" monsterType="18"
+			monsterLevel="1" />
+		<item wave="6" lineId="0" time="142" monsterType="18"
+			monsterLevel="1" />
+		<item wave="6" lineId="3" time="142" monsterType="18"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="143" monsterType="18"
+			monsterLevel="1" />
+
+		<item wave="7" lineId="1" time="163" monsterType="18"
+			monsterLevel="1" /> <!--棒槌，大小地精，加血怪 -->
+		<item wave="7" lineId="0" time="163" monsterType="18"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="163" monsterType="20"
+			monsterLevel="1" />
+		<item wave="7" lineId="3" time="163" monsterType="20"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="165" monsterType="21"
+			monsterLevel="1" />
+		<item wave="7" lineId="1" time="165" monsterType="21"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="165" monsterType="17"
+			monsterLevel="1" />
+		<item wave="7" lineId="3" time="165" monsterType="17"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="166" monsterType="18"
+			monsterLevel="1" />
+		<item wave="7" lineId="1" time="166" monsterType="18"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="166" monsterType="20"
+			monsterLevel="1" />
+		<item wave="7" lineId="3" time="166" monsterType="20"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="167" monsterType="21"
+			monsterLevel="1" />
+		<item wave="7" lineId="3" time="167" monsterType="21"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="168" monsterType="18"
+			monsterLevel="1" />
+		<item wave="7" lineId="3" time="168" monsterType="18"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="169" monsterType="20"
+			monsterLevel="1" />
+		<item wave="7" lineId="3" time="169" monsterType="20"
+			monsterLevel="1" />
+		<item wave="7" lineId="1" time="170" monsterType="20"
+			monsterLevel="1" />
+	</chapter>
+	<chapter id="4">		  							    <!-- 第四章节 -->
+		<item wave="1" lineId="1" time="0" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="0" time="0" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="2" time="0" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="3" time="0" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="0" time="4" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="1" time="4" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="2" time="4" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="3" time="4" monsterType="20" monsterLevel="1" />
+
+		<item wave="2" lineId="1" time="24" monsterType="5" monsterLevel="1" /> <!-- 小黄人那个怪 -->
+		<item wave="2" lineId="0" time="24" monsterType="5" monsterLevel="1" />
+		<item wave="2" lineId="2" time="24" monsterType="5" monsterLevel="1" />
+		<item wave="2" lineId="3" time="24" monsterType="5" monsterLevel="1" />
+		<item wave="2" lineId="0" time="26" monsterType="5" monsterLevel="1" />
+		<item wave="2" lineId="1" time="26" monsterType="5" monsterLevel="1" />
+		<item wave="2" lineId="2" time="26" monsterType="5" monsterLevel="1" />
+		<item wave="2" lineId="3" time="26" monsterType="5" monsterLevel="1" />
+
+		<item wave="3" lineId="1" time="56" monsterType="17"
+			monsterLevel="1" /> <!-- 加血那个怪 -->
+		<item wave="3" lineId="0" time="56" monsterType="17"
+			monsterLevel="1" />
+		<item wave="3" lineId="2" time="56" monsterType="17"
+			monsterLevel="1" />
+		<item wave="3" lineId="3" time="56" monsterType="17"
+			monsterLevel="1" />
+		<item wave="3" lineId="0" time="58" monsterType="17"
+			monsterLevel="1" />
+		<item wave="3" lineId="1" time="58" monsterType="17"
+			monsterLevel="1" />
+		<item wave="3" lineId="2" time="58" monsterType="17"
+			monsterLevel="1" />
+		<item wave="3" lineId="3" time="58" monsterType="17"
+			monsterLevel="1" />
+
+		<item wave="4" lineId="1" time="80" monsterType="18"
+			monsterLevel="1" />      <!--棒槌带队20 -->
+		<item wave="4" lineId="3" time="80" monsterType="18"
+			monsterLevel="1" />
+		<item wave="4" lineId="2" time="85" monsterType="20"
+			monsterLevel="1" />
+		<item wave="4" lineId="3" time="85" monsterType="20"
+			monsterLevel="1" />
+		<item wave="4" lineId="0" time="85" monsterType="20"
+			monsterLevel="1" />
+		<item wave="4" lineId="1" time="85" monsterType="20"
+			monsterLevel="1" />
+		<item wave="4" lineId="2" time="88" monsterType="20"
+			monsterLevel="1" />
+		<item wave="4" lineId="3" time="88" monsterType="20"
+			monsterLevel="1" />
+		<item wave="4" lineId="0" time="88" monsterType="20"
+			monsterLevel="1" />
+		<item wave="4" lineId="1" time="88" monsterType="20"
+			monsterLevel="1" />
+
+		<item wave="5" lineId="1" time="110" monsterType="18"
+			monsterLevel="1" />      <!--棒槌带队,带黄怪 -->
+		<item wave="5" lineId="3" time="112" monsterType="18"
+			monsterLevel="1" />
+		<item wave="5" lineId="2" time="117" monsterType="5"
+			monsterLevel="1" />
+		<item wave="5" lineId="3" time="117" monsterType="5"
+			monsterLevel="1" />
+		<item wave="5" lineId="0" time="117" monsterType="5"
+			monsterLevel="1" />
+		<item wave="5" lineId="1" time="117" monsterType="5"
+			monsterLevel="1" />
+		<item wave="5" lineId="2" time="120" monsterType="5"
+			monsterLevel="1" />
+		<item wave="5" lineId="3" time="120" monsterType="5"
+			monsterLevel="1" />
+		<item wave="5" lineId="0" time="120" monsterType="5"
+			monsterLevel="1" />
+		<item wave="5" lineId="1" time="120" monsterType="5"
+			monsterLevel="1" />
+
+		<item wave="6" lineId="1" time="150" monsterType="18"
+			monsterLevel="1" /> <!--棒槌带队，会加血的怪 -->
+		<item wave="6" lineId="3" time="150" monsterType="18"
+			monsterLevel="1" />
+		<item wave="6" lineId="2" time="155" monsterType="17"
+			monsterLevel="1" />
+		<item wave="6" lineId="3" time="155" monsterType="17"
+			monsterLevel="1" />
+		<item wave="6" lineId="0" time="156" monsterType="17"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="157" monsterType="17"
+			monsterLevel="1" />
+		<item wave="6" lineId="2" time="158" monsterType="17"
+			monsterLevel="1" />
+		<item wave="6" lineId="3" time="159" monsterType="17"
+			monsterLevel="1" />
+		<item wave="6" lineId="0" time="159" monsterType="17"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="160" monsterType="17"
+			monsterLevel="1" />
+
+		<item wave="7" lineId="1" time="190" monsterType="5"
+			monsterLevel="1" /> <!--黄怪 -->
+		<item wave="7" lineId="0" time="190" monsterType="5"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="190" monsterType="5"
+			monsterLevel="1" />
+		<item wave="7" lineId="3" time="190" monsterType="5"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="192" monsterType="5"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="192" monsterType="5"
+			monsterLevel="1" />
+		<item wave="7" lineId="3" time="192" monsterType="5"
+			monsterLevel="1" />
+		<item wave="7" lineId="1" time="192" monsterType="5"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="193" monsterType="5"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="193" monsterType="5"
+			monsterLevel="1" />
+
+		<item wave="8" lineId="1" time="215" monsterType="18"
+			monsterLevel="1" /> <!--棒槌 -->
+		<item wave="8" lineId="0" time="215" monsterType="18"
+			monsterLevel="1" />
+		<item wave="8" lineId="3" time="215" monsterType="18"
+			monsterLevel="1" />
+		<item wave="8" lineId="2" time="215" monsterType="18"
+			monsterLevel="1" />
+		<item wave="8" lineId="1" time="216" monsterType="18"
+			monsterLevel="1" />
+		<item wave="8" lineId="0" time="217" monsterType="18"
+			monsterLevel="1" />
+		<item wave="8" lineId="2" time="218" monsterType="18"
+			monsterLevel="1" />
+
+		<item wave="9" lineId="1" time="240" monsterType="18"
+			monsterLevel="1" /> <!--大小地精，加血怪 -->
+		<item wave="9" lineId="0" time="240" monsterType="18"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="242" monsterType="20"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="242" monsterType="20"
+			monsterLevel="1" />
+		<item wave="9" lineId="0" time="244" monsterType="21"
+			monsterLevel="1" />
+		<item wave="9" lineId="1" time="244" monsterType="21"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="246" monsterType="17"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="246" monsterType="17"
+			monsterLevel="1" />
+		<item wave="9" lineId="0" time="248" monsterType="18"
+			monsterLevel="1" />
+		<item wave="9" lineId="1" time="248" monsterType="18"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="250" monsterType="20"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="250" monsterType="20"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="252" monsterType="21"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="252" monsterType="21"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="254" monsterType="18"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="254" monsterType="18"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="256" monsterType="20"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="256" monsterType="20"
+			monsterLevel="1" />
+		<item wave="9" lineId="1" time="258" monsterType="20"
+			monsterLevel="1" />
+
+		<item wave="10" lineId="1" time="285" monsterType="5"
+			monsterLevel="1" /> <!--黄怪 -->
+		<item wave="10" lineId="0" time="285" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="285" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="285" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="287" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="287" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="287" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="287" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="290" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="290" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="290" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="290" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="294" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="294" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="295" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="295" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="296" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="296" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="297" monsterType="5"
+			monsterLevel="1" />
+	</chapter>
+	<chapter id="5">		  							    <!-- 第五章节 -->
+		<item wave="1" lineId="1" time="0" monsterType="20" monsterLevel="1" /> <!--小地精 -->
+		<item wave="1" lineId="0" time="0" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="2" time="0" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="3" time="0" monsterType="21" monsterLevel="1" />
+		<item wave="1" lineId="0" time="4" monsterType="21" monsterLevel="1" />
+		<item wave="1" lineId="1" time="4" monsterType="21" monsterLevel="1" />
+		<item wave="1" lineId="2" time="4" monsterType="21" monsterLevel="1" />
+		<item wave="1" lineId="3" time="4" monsterType="21" monsterLevel="1" />
+
+		<item wave="2" lineId="1" time="34" monsterType="20" monsterLevel="1" /> <!--大地精 -->
+		<item wave="2" lineId="0" time="34" monsterType="20" monsterLevel="1" />
+		<item wave="2" lineId="2" time="34" monsterType="20" monsterLevel="1" />
+		<item wave="2" lineId="3" time="34" monsterType="20" monsterLevel="1" />
+		<item wave="2" lineId="0" time="38" monsterType="22" monsterLevel="1" />
+		<item wave="2" lineId="1" time="38" monsterType="22" monsterLevel="1" />
+		<item wave="2" lineId="2" time="38" monsterType="22" monsterLevel="1" />
+		<item wave="2" lineId="3" time="38" monsterType="22" monsterLevel="1" />
+
+		<item wave="3" lineId="1" time="68" monsterType="5" monsterLevel="1" /> <!--黄怪 -->
+		<item wave="3" lineId="0" time="68" monsterType="5" monsterLevel="1" />
+		<item wave="3" lineId="2" time="68" monsterType="5" monsterLevel="1" />
+		<item wave="3" lineId="3" time="68" monsterType="5" monsterLevel="1" />
+		<item wave="3" lineId="0" time="72" monsterType="5" monsterLevel="1" />
+		<item wave="3" lineId="1" time="72" monsterType="5" monsterLevel="1" />
+		<item wave="3" lineId="2" time="72" monsterType="5" monsterLevel="1" />
+		<item wave="3" lineId="3" time="72" monsterType="5" monsterLevel="1" />
+
+		<item wave="4" lineId="1" time="100" monsterType="17" monsterLevel="1" /> <!--加血那个怪 -->
+		<item wave="4" lineId="0" time="100" monsterType="17" monsterLevel="1" />
+		<item wave="4" lineId="2" time="100" monsterType="17" monsterLevel="1" />
+		<item wave="4" lineId="3" time="100" monsterType="17" monsterLevel="1" />
+		<item wave="4" lineId="0" time="104" monsterType="17" monsterLevel="1" />
+		<item wave="4" lineId="1" time="104" monsterType="17" monsterLevel="1" />
+		<item wave="4" lineId="2" time="104" monsterType="17" monsterLevel="1" />
+		<item wave="4" lineId="3" time="104" monsterType="17" monsterLevel="1" />
+
+		<item wave="5" lineId="5" time="124" monsterType="15" monsterLevel="1" /> <!--大蜘蛛 -->
+
+		<item wave="6" lineId="5" time="144" monsterType="15" monsterLevel="1" /> <!--大蜘蛛带黄怪 -->
+		<item wave="6" lineId="4" time="146" monsterType="5" monsterLevel="1" />
+		<item wave="6" lineId="5" time="146" monsterType="5" monsterLevel="1" />
+		<item wave="6" lineId="4" time="148" monsterType="5" monsterLevel="1" />
+		<item wave="6" lineId="5" time="148" monsterType="5" monsterLevel="1" />
+		<item wave="6" lineId="4" time="150" monsterType="5" monsterLevel="1" />
+		<item wave="6" lineId="5" time="150" monsterType="5" monsterLevel="1" />
+		<item wave="6" lineId="4" time="151" monsterType="5" monsterLevel="1" />
+
+		<item wave="7" lineId="1" time="180" monsterType="18"
+			monsterLevel="1" />      <!--棒槌带队20 -->
+		<item wave="7" lineId="3" time="180" monsterType="18"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="185" monsterType="20"
+			monsterLevel="1" />
+		<item wave="7" lineId="3" time="185" monsterType="20"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="185" monsterType="20"
+			monsterLevel="1" />
+		<item wave="7" lineId="1" time="185" monsterType="20"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="188" monsterType="20"
+			monsterLevel="1" />
+		<item wave="7" lineId="3" time="188" monsterType="20"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="188" monsterType="20"
+			monsterLevel="1" />
+		<item wave="7" lineId="1" time="188" monsterType="20"
+			monsterLevel="1" />
+
+		<item wave="8" lineId="5" time="210" monsterType="18"
+			monsterLevel="1" /> <!--大小地精，加血怪,从蜘蛛路点开始出 -->
+		<item wave="8" lineId="4" time="210" monsterType="18"
+			monsterLevel="1" />
+		<item wave="8" lineId="5" time="210" monsterType="20"
+			monsterLevel="1" />
+		<item wave="8" lineId="4" time="210" monsterType="20"
+			monsterLevel="1" />
+		<item wave="8" lineId="4" time="214" monsterType="21"
+			monsterLevel="1" />
+		<item wave="8" lineId="5" time="214" monsterType="21"
+			monsterLevel="1" />
+		<item wave="8" lineId="4" time="214" monsterType="17"
+			monsterLevel="1" />
+		<item wave="8" lineId="5" time="214" monsterType="17"
+			monsterLevel="1" />
+		<item wave="8" lineId="4" time="216" monsterType="18"
+			monsterLevel="1" />
+		<item wave="8" lineId="5" time="216" monsterType="18"
+			monsterLevel="1" />
+
+		<item wave="9" lineId="1" time="240" monsterType="18"
+			monsterLevel="1" /> <!--棒槌 -->
+		<item wave="9" lineId="0" time="240" monsterType="18"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="240" monsterType="18"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="240" monsterType="18"
+			monsterLevel="1" />
+		<item wave="9" lineId="4" time="244" monsterType="18"
+			monsterLevel="1" />
+		<item wave="9" lineId="5" time="244" monsterType="18"
+			monsterLevel="1" />
+		<item wave="9" lineId="1" time="244" monsterType="18"
+			monsterLevel="1" />
+
+		<item wave="10" lineId="1" time="275" monsterType="5"
+			monsterLevel="1" /> <!--黄怪 -->
+		<item wave="10" lineId="0" time="275" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="275" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="275" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="278" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="278" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="278" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="278" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="278" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="280" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="280" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="280" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="282" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="282" monsterType="5"
+			monsterLevel="1" />
+
+		<item wave="11" lineId="5" time="310" monsterType="15"
+			monsterLevel="1" /> <!--黄怪,加血怪，蜘蛛带地精 -->
+		<item wave="11" lineId="0" time="310" monsterType="5"
+			monsterLevel="1" />
+		<item wave="11" lineId="2" time="310" monsterType="5"
+			monsterLevel="1" />
+		<item wave="11" lineId="3" time="310" monsterType="20"
+			monsterLevel="1" />
+		<item wave="11" lineId="0" time="313" monsterType="21"
+			monsterLevel="1" />
+		<item wave="11" lineId="1" time="313" monsterType="22"
+			monsterLevel="1" />
+		<item wave="11" lineId="2" time="313" monsterType="22"
+			monsterLevel="1" />
+		<item wave="11" lineId="3" time="313" monsterType="22"
+			monsterLevel="1" />
+		<item wave="11" lineId="4" time="317" monsterType="22"
+			monsterLevel="1" />
+		<item wave="11" lineId="5" time="317" monsterType="22"
+			monsterLevel="1" />
+		<item wave="11" lineId="2" time="317" monsterType="22"
+			monsterLevel="1" />
+		<item wave="11" lineId="3" time="317" monsterType="22"
+			monsterLevel="1" />
+		<item wave="11" lineId="4" time="320" monsterType="22"
+			monsterLevel="1" />
+		<item wave="11" lineId="5" time="320" monsterType="22"
+			monsterLevel="1" />
+		<item wave="11" lineId="0" time="322" monsterType="22"
+			monsterLevel="1" />
+		<item wave="11" lineId="2" time="322" monsterType="22"
+			monsterLevel="1" />
+		<item wave="11" lineId="3" time="324" monsterType="22"
+			monsterLevel="1" />
+	</chapter>
+	<chapter id="6">		  							    <!-- 第六章节 lineId0-3左边，12-15右边，其余中间-->
+		<item wave="1" lineId="0" time="0" monsterType="21" monsterLevel="1" /> <!--大地精 -->
+		<item wave="1" lineId="1" time="4" monsterType="21" monsterLevel="1" />
+		<item wave="1" lineId="2" time="0" monsterType="21" monsterLevel="1" />
+		<item wave="1" lineId="3" time="4" monsterType="21" monsterLevel="1" />
+		<item wave="1" lineId="12" time="0" monsterType="21" monsterLevel="1" />
+		<item wave="1" lineId="13" time="4" monsterType="21" monsterLevel="1" />
+		<item wave="1" lineId="14" time="0" monsterType="21" monsterLevel="1" />
+		<item wave="1" lineId="15" time="4" monsterType="21" monsterLevel="1" />
+		
+		<item wave="2" lineId="0" time="34" monsterType="20" monsterLevel="1" /> <!--小地精 -->
+		<item wave="2" lineId="1" time="38" monsterType="20" monsterLevel="1" />
+		<item wave="2" lineId="2" time="34" monsterType="20" monsterLevel="1" />
+		<item wave="2" lineId="3" time="38" monsterType="20" monsterLevel="1" />
+		<item wave="2" lineId="12" time="34" monsterType="20" monsterLevel="1" />
+		<item wave="2" lineId="13" time="38" monsterType="20" monsterLevel="1" />
+		<item wave="2" lineId="14" time="34" monsterType="20" monsterLevel="1" />
+		<item wave="2" lineId="15" time="38" monsterType="20" monsterLevel="1" />
+		<item wave="2" lineId="0" time="42" monsterType="20" monsterLevel="1" />
+		<item wave="2" lineId="1" time="46" monsterType="20" monsterLevel="1" />
+		<item wave="2" lineId="2" time="42" monsterType="20" monsterLevel="1" />
+		<item wave="2" lineId="3" time="46" monsterType="20" monsterLevel="1" />
+		<item wave="2" lineId="12" time="42" monsterType="20" monsterLevel="1" />
+		<item wave="2" lineId="13" time="46" monsterType="20" monsterLevel="1" />
+		<item wave="2" lineId="14" time="42" monsterType="20" monsterLevel="1" />
+		<item wave="2" lineId="15" time="46" monsterType="20" monsterLevel="1" />
+		
+		<item wave="3" lineId="0" time="76" monsterType="9" monsterLevel="1" /> <!--蝙蝠 -->
+		<item wave="3" lineId="1" time="80" monsterType="9" monsterLevel="1" />
+		<item wave="3" lineId="2" time="76" monsterType="9" monsterLevel="1" />
+		<item wave="3" lineId="3" time="80" monsterType="9" monsterLevel="1" />
+		<item wave="3" lineId="12" time="76" monsterType="9" monsterLevel="1" />
+		<item wave="3" lineId="13" time="80" monsterType="9" monsterLevel="1" />
+		<item wave="3" lineId="14" time="76" monsterType="9" monsterLevel="1" />
+		<item wave="3" lineId="15" time="80" monsterType="9" monsterLevel="1" />
+		
+		<item wave="4" lineId="5" time="120" monsterType="5" monsterLevel="1" /> <!--黄色的怪 -->
+		<item wave="4" lineId="6" time="121" monsterType="5" monsterLevel="1" />
+		<item wave="4" lineId="7" time="123" monsterType="5" monsterLevel="1" />
+		<item wave="4" lineId="8" time="124" monsterType="5" monsterLevel="1" />
+		<item wave="4" lineId="9" time="125" monsterType="5" monsterLevel="1" />
+		<item wave="4" lineId="10" time="126" monsterType="5" monsterLevel="1" />
+		<item wave="4" lineId="11" time="127" monsterType="5" monsterLevel="1" />
+		<item wave="4" lineId="5" time="135" monsterType="5" monsterLevel="1" /> 
+		<item wave="4" lineId="6" time="136" monsterType="5" monsterLevel="1" />
+		<item wave="4" lineId="7" time="137" monsterType="5" monsterLevel="1" />
+		<item wave="4" lineId="8" time="138" monsterType="5" monsterLevel="1" />
+		<item wave="4" lineId="9" time="139" monsterType="5" monsterLevel="1" />
+		<item wave="4" lineId="10" time="140" monsterType="5" monsterLevel="1" />
+		<item wave="4" lineId="11" time="140" monsterType="5" monsterLevel="1" />
+		
+		<item wave="5" lineId="5" time="180" monsterType="5" monsterLevel="1" /> <!--中间处黄怪，两边处放箭的 -->
+		<item wave="5" lineId="6" time="181" monsterType="5" monsterLevel="1" />
+		<item wave="5" lineId="7" time="182" monsterType="5" monsterLevel="1" />
+		<item wave="5" lineId="8" time="183" monsterType="5" monsterLevel="1" />
+		<item wave="5" lineId="9" time="184" monsterType="5" monsterLevel="1" />
+		<item wave="5" lineId="10" time="185" monsterType="5" monsterLevel="1" />
+		<item wave="5" lineId="11" time="185" monsterType="10" monsterLevel="1" />
+		<item wave="5" lineId="0" time="180" monsterType="10" monsterLevel="1" /> 
+		<item wave="5" lineId="1" time="181" monsterType="10" monsterLevel="1" />
+		<item wave="5" lineId="2" time="182" monsterType="10" monsterLevel="1" />
+		<item wave="5" lineId="3" time="183" monsterType="10" monsterLevel="1" />
+		<item wave="5" lineId="4" time="184" monsterType="10" monsterLevel="1" />
+		<item wave="5" lineId="12" time="180" monsterType="10" monsterLevel="1" />
+		<item wave="5" lineId="13" time="181" monsterType="10" monsterLevel="1" />
+		<item wave="5" lineId="14" time="182" monsterType="10" monsterLevel="1" />
+		<item wave="5" lineId="15" time="183" monsterType="10" monsterLevel="1" />
+		
+		<item wave="6" lineId="6" time="220" monsterType="18" monsterLevel="1" /><!--两边处黄怪，中间处棒槌 -->
+		<item wave="6" lineId="8" time="221" monsterType="18" monsterLevel="1" />
+		<item wave="6" lineId="9" time="222" monsterType="18" monsterLevel="1" />
+		<item wave="6" lineId="10" time="223" monsterType="18" monsterLevel="1" />
+		<item wave="6" lineId="0" time="220" monsterType="5" monsterLevel="1" /> 
+		<item wave="6" lineId="1" time="221" monsterType="5" monsterLevel="1" />
+		<item wave="6" lineId="2" time="222" monsterType="5" monsterLevel="1" />
+		<item wave="6" lineId="3" time="223" monsterType="5" monsterLevel="1" />
+		<item wave="6" lineId="4" time="224" monsterType="5" monsterLevel="1" />
+		<item wave="6" lineId="12" time="230" monsterType="5" monsterLevel="1" />
+		<item wave="6" lineId="13" time="231" monsterType="5" monsterLevel="1" />
+		<item wave="6" lineId="14" time="232" monsterType="5" monsterLevel="1" />
+		<item wave="6" lineId="15" time="233" monsterType="5" monsterLevel="1" />
+		
+		<item wave="7" lineId="0" time="270" monsterType="9" monsterLevel="1" /> <!--蝙蝠 -->
+		<item wave="7" lineId="1" time="271" monsterType="9" monsterLevel="1" />
+		<item wave="7" lineId="2" time="272" monsterType="9" monsterLevel="1" />
+		<item wave="7" lineId="3" time="273" monsterType="9" monsterLevel="1" />
+		<item wave="7" lineId="12" time="270" monsterType="9" monsterLevel="1" />
+		<item wave="7" lineId="13" time="271" monsterType="9" monsterLevel="1" />
+		<item wave="7" lineId="14" time="272" monsterType="9" monsterLevel="1" />
+		<item wave="7" lineId="15" time="273" monsterType="9" monsterLevel="1" />
+		<item wave="7" lineId="5" time="278" monsterType="9" monsterLevel="1" /> 
+		<item wave="7" lineId="7" time="279" monsterType="9" monsterLevel="1" />
+		<item wave="7" lineId="9" time="280" monsterType="9" monsterLevel="1" />
+		<item wave="7" lineId="10" time="281" monsterType="9" monsterLevel="1" />
+		<item wave="7" lineId="6" time="282" monsterType="9" monsterLevel="1" />
+		<item wave="7" lineId="8" time="283" monsterType="9" monsterLevel="1" />
+		<item wave="7" lineId="11" time="284" monsterType="9" monsterLevel="1" />
+		
+		<item wave="8" lineId="0" time="320" monsterType="19" monsterLevel="1" /> <!--两边带叉子的带射箭的 -->
+		<item wave="8" lineId="4" time="321" monsterType="19" monsterLevel="1" />
+		<item wave="8" lineId="12" time="320" monsterType="19" monsterLevel="1" />
+		<item wave="8" lineId="15" time="321" monsterType="19" monsterLevel="1" />
+		<item wave="8" lineId="0" time="325" monsterType="10" monsterLevel="1" />
+		<item wave="8" lineId="1" time="326" monsterType="10" monsterLevel="1" />
+		<item wave="8" lineId="2" time="327" monsterType="10" monsterLevel="1" />
+		<item wave="8" lineId="3" time="328" monsterType="10" monsterLevel="1" />
+		<item wave="8" lineId="12" time="329" monsterType="10" monsterLevel="1" />
+		<item wave="8" lineId="13" time="330" monsterType="10" monsterLevel="1" />
+		<item wave="8" lineId="14" time="331" monsterType="10" monsterLevel="1" />
+		<item wave="8" lineId="15" time="332" monsterType="10" monsterLevel="1" />
+		
+		<item wave="9" lineId="10" time="370" monsterType="6" monsterLevel="1" /> <!--中间出来打鼓的黄怪 -->
+		<item wave="9" lineId="11" time="374" monsterType="6" monsterLevel="1" />
+		<item wave="9" lineId="9" time="371" monsterType="6" monsterLevel="1" />
+		<item wave="9" lineId="8" time="372" monsterType="6" monsterLevel="1" />
+		<item wave="9" lineId="7" time="373" monsterType="6" monsterLevel="1" />
+		<item wave="9" lineId="6" time="374" monsterType="6" monsterLevel="1" />
+		<item wave="9" lineId="5" time="372" monsterType="6" monsterLevel="1" />
+		<item wave="9" lineId="3" time="380" monsterType="10" monsterLevel="1" />
+		<item wave="9" lineId="12" time="382" monsterType="10" monsterLevel="1" />
+		<item wave="9" lineId="13" time="380" monsterType="10" monsterLevel="1" />
+		<item wave="9" lineId="14" time="382" monsterType="10" monsterLevel="1" />
+		<item wave="9" lineId="15" time="380" monsterType="10" monsterLevel="1" />
+		
+		<item wave="10" lineId="10" time="420" monsterType="6" monsterLevel="1" /> <!--大杂烩夹杂着狗 -->
+		<item wave="10" lineId="11" time="421" monsterType="6" monsterLevel="1" />
+		<item wave="10" lineId="9" time="422" monsterType="5" monsterLevel="1" />
+		<item wave="10" lineId="8" time="423" monsterType="5" monsterLevel="1" />
+		<item wave="10" lineId="7" time="424" monsterType="5" monsterLevel="1" />
+		<item wave="10" lineId="6" time="428" monsterType="22" monsterLevel="1" />
+		<item wave="10" lineId="5" time="429" monsterType="22" monsterLevel="1" />
+		<item wave="10" lineId="3" time="430" monsterType="22" monsterLevel="1" />
+		<item wave="10" lineId="12" time="431" monsterType="22" monsterLevel="1" />
+		<item wave="10" lineId="13" time="432" monsterType="22" monsterLevel="1" />
+		<item wave="10" lineId="14" time="433" monsterType="22" monsterLevel="1" />
+		<item wave="10" lineId="15" time="434" monsterType="22" monsterLevel="1" />
+		
+		<item wave="11" lineId="14" time="470" monsterType="14" monsterLevel="1" />
+	</chapter>
+	<chapter id="7">		  							    <!-- 第七章节 -->
+	    <item wave="1" lineId="0" time="0" monsterType="5" monsterLevel="1" /> <!--黄色的怪 -->
+		<item wave="1" lineId="1" time="1" monsterType="5" monsterLevel="1" />
+		<item wave="1" lineId="0" time="2" monsterType="5" monsterLevel="1" />
+		<item wave="1" lineId="1" time="3" monsterType="5" monsterLevel="1" />
+		<item wave="1" lineId="0" time="4" monsterType="5" monsterLevel="1" />
+		<item wave="1" lineId="1" time="5" monsterType="5" monsterLevel="1" />
+		<item wave="1" lineId="0" time="6" monsterType="5" monsterLevel="1" />
+		<item wave="1" lineId="1" time="7" monsterType="5" monsterLevel="1" /> 
+		<item wave="1" lineId="0" time="8" monsterType="5" monsterLevel="1" />
+		
+		<item wave="2" lineId="0" time="38" monsterType="6" monsterLevel="1" /> <!--会敲锣的怪 -->
+		<item wave="2" lineId="1" time="39" monsterType="6" monsterLevel="1" />
+		<item wave="2" lineId="0" time="40" monsterType="11" monsterLevel="1" />
+		<item wave="2" lineId="1" time="41" monsterType="11" monsterLevel="1" />
+		<item wave="2" lineId="0" time="42" monsterType="11" monsterLevel="1" />
+		<item wave="2" lineId="1" time="43" monsterType="11" monsterLevel="1" />
+		<item wave="2" lineId="0" time="44" monsterType="11" monsterLevel="1" />
+		<item wave="2" lineId="1" time="45" monsterType="11" monsterLevel="1" /> 
+		<item wave="2" lineId="0" time="46" monsterType="11" monsterLevel="1" />
+		
+		<item wave="3" lineId="2" time="76" monsterType="1" monsterLevel="1" /> <!--骑马精灵 -->
+		<item wave="3" lineId="3" time="77" monsterType="1" monsterLevel="1" />
+		<item wave="3" lineId="2" time="78" monsterType="1" monsterLevel="1" />
+		<item wave="3" lineId="3" time="79" monsterType="1" monsterLevel="1" />
+		<item wave="3" lineId="0" time="80" monsterType="1" monsterLevel="1" />
+		<item wave="3" lineId="1" time="81" monsterType="1" monsterLevel="1" />
+		<item wave="3" lineId="0" time="82" monsterType="1" monsterLevel="1" />
+		<item wave="3" lineId="1" time="83" monsterType="1" monsterLevel="1" /> 
+		<item wave="3" lineId="0" time="84" monsterType="1" monsterLevel="1" />
+		
+		<item wave="4" lineId="0" time="114" monsterType="2" monsterLevel="1" /> <!--两个小雪人带射箭的 -->
+		<item wave="4" lineId="1" time="115" monsterType="2" monsterLevel="1" />
+		<item wave="4" lineId="0" time="120" monsterType="10" monsterLevel="1" />
+		<item wave="4" lineId="1" time="121" monsterType="10" monsterLevel="1" />
+		<item wave="4" lineId="0" time="122" monsterType="10" monsterLevel="1" />
+		<item wave="4" lineId="4" time="123" monsterType="10" monsterLevel="1" />
+		<item wave="4" lineId="5" time="124" monsterType="10" monsterLevel="1" />
+		<item wave="4" lineId="4" time="125" monsterType="10" monsterLevel="1" /> 
+		<item wave="4" lineId="5" time="126" monsterType="10" monsterLevel="1" />
+		
+		<item wave="5" lineId="0" time="156" monsterType="9" monsterLevel="1" /> <!--黄色的飞行兵-->
+		<item wave="5" lineId="1" time="157" monsterType="9" monsterLevel="1" />
+		<item wave="5" lineId="0" time="159" monsterType="9" monsterLevel="1" />
+		<item wave="5" lineId="1" time="160" monsterType="9" monsterLevel="1" />
+		<item wave="5" lineId="0" time="162" monsterType="9" monsterLevel="1" />
+		<item wave="5" lineId="1" time="163" monsterType="9" monsterLevel="1" />
+		<item wave="5" lineId="0" time="165" monsterType="9" monsterLevel="1" />
+		<item wave="5" lineId="1" time="166" monsterType="9" monsterLevel="1" /> 
+		<item wave="5" lineId="0" time="168" monsterType="9" monsterLevel="1" />
+		
+		<item wave="6" lineId="0" time="198" monsterType="4" monsterLevel="1" /> <!--机器飞翔怪-->
+		<item wave="6" lineId="1" time="199" monsterType="4" monsterLevel="1" />
+		<item wave="6" lineId="0" time="201" monsterType="4" monsterLevel="1" />
+		<item wave="6" lineId="1" time="202" monsterType="4" monsterLevel="1" />
+		<item wave="6" lineId="0" time="204" monsterType="4" monsterLevel="1" />
+		<item wave="6" lineId="4" time="205" monsterType="4" monsterLevel="1" />
+		<item wave="6" lineId="5" time="206" monsterType="4" monsterLevel="1" />
+		<item wave="6" lineId="4" time="208" monsterType="4" monsterLevel="1" /> 
+		<item wave="6" lineId="5" time="209" monsterType="4" monsterLevel="1" />
+		
+		<item wave="7" lineId="0" time="240" monsterType="8" monsterLevel="1" /> <!--进化前的boss-->
+		<item wave="7" lineId="1" time="241" monsterType="8" monsterLevel="1" />
+		<item wave="7" lineId="0" time="242" monsterType="8" monsterLevel="1" />
+		<item wave="7" lineId="1" time="243" monsterType="8" monsterLevel="1" />
+		<item wave="7" lineId="0" time="244" monsterType="8" monsterLevel="1" />
+		<item wave="7" lineId="1" time="245" monsterType="8" monsterLevel="1" />
+		<item wave="7" lineId="0" time="246" monsterType="8" monsterLevel="1" />
+		<item wave="7" lineId="1" time="247" monsterType="8" monsterLevel="1" /> 
+		<item wave="7" lineId="0" time="248" monsterType="8" monsterLevel="1" />
+		
+		<item wave="8" lineId="2" time="278" monsterType="2" monsterLevel="1" /> <!--小雪人带野狗-->
+		<item wave="8" lineId="3" time="280" monsterType="2" monsterLevel="1" />
+		<item wave="8" lineId="2" time="288" monsterType="11" monsterLevel="1" />
+		<item wave="8" lineId="3" time="288" monsterType="11" monsterLevel="1" />
+		<item wave="8" lineId="0" time="289" monsterType="11" monsterLevel="1" />
+		<item wave="8" lineId="1" time="289" monsterType="11" monsterLevel="1" />
+		<item wave="8" lineId="0" time="290" monsterType="11" monsterLevel="1" />
+		<item wave="8" lineId="1" time="290" monsterType="11" monsterLevel="1" /> 
+		<item wave="8" lineId="0" time="291" monsterType="11" monsterLevel="1" />
+		
+		<item wave="9" lineId="4" time="320" monsterType="19" monsterLevel="1" /> 
+		<item wave="9" lineId="5" time="321" monsterType="19" monsterLevel="1" />
+		<item wave="9" lineId="4" time="322" monsterType="19" monsterLevel="1" />
+		<item wave="9" lineId="5" time="323" monsterType="19" monsterLevel="1" />
+		<item wave="9" lineId="0" time="328" monsterType="10" monsterLevel="1" />
+		<item wave="9" lineId="1" time="329" monsterType="10" monsterLevel="1" />
+		<item wave="9" lineId="0" time="330" monsterType="10" monsterLevel="1" />
+		<item wave="9" lineId="1" time="331" monsterType="10" monsterLevel="1" /> 
+		<item wave="9" lineId="0" time="332" monsterType="10" monsterLevel="1" />
+		
+		<item wave="10" lineId="0" time="365" monsterType="2" monsterLevel="1" /> <!--小雪人-->
+		<item wave="10" lineId="1" time="370" monsterType="2" monsterLevel="1" />
+		<item wave="10" lineId="0" time="375" monsterType="2" monsterLevel="1" />
+		<item wave="10" lineId="1" time="380" monsterType="2" monsterLevel="1" />
+		<item wave="10" lineId="0" time="385" monsterType="2" monsterLevel="1" />
+		<item wave="10" lineId="1" time="390" monsterType="2" monsterLevel="1" />
+		
+		<item wave="11" lineId="4" time="420" monsterType="16" monsterLevel="1" /> <!--大雪人-->
+		<item wave="11" lineId="5" time="421" monsterType="9" monsterLevel="1" />
+		<item wave="11" lineId="4" time="422" monsterType="9" monsterLevel="1" /> 
+		<item wave="11" lineId="1" time="423" monsterType="9" monsterLevel="1" />
+		<item wave="11" lineId="0" time="424" monsterType="4" monsterLevel="1" />
+		<item wave="11" lineId="1" time="421" monsterType="4" monsterLevel="1" /> 
+		<item wave="11" lineId="0" time="422" monsterType="4" monsterLevel="1" />
+	</chapter>
+	<chapter id="8">		  							    <!-- 第八章节 -->
+		<item wave="1" lineId="2" time="1" monsterType="1" monsterLevel="1" />
+		<item wave="1" lineId="3" time="1" monsterType="1" monsterLevel="1" />
+		<item wave="1" lineId="2" time="2" monsterType="1" monsterLevel="1" />
+		<item wave="1" lineId="3" time="2" monsterType="1" monsterLevel="1" />
+		<item wave="1" lineId="2" time="4" monsterType="15" monsterLevel="1" />
+		<item wave="1" lineId="3" time="8" monsterType="1" monsterLevel="1" />
+		<item wave="1" lineId="2" time="8" monsterType="1" monsterLevel="1" />
+		<item wave="1" lineId="3" time="9" monsterType="1" monsterLevel="1" />
+		<item wave="1" lineId="2" time="9" monsterType="1" monsterLevel="1" />
+		<item wave="1" lineId="2" time="11" monsterType="15" monsterLevel="1" />
+
+		<item wave="2" lineId="1" time="24" monsterType="17" monsterLevel="1" /> <!-- 小黄人那个怪 -->
+		<item wave="2" lineId="0" time="25" monsterType="17" monsterLevel="1" />
+		<item wave="2" lineId="1" time="27" monsterType="17" monsterLevel="1" />
+		<item wave="2" lineId="0" time="28" monsterType="17" monsterLevel="1" />
+		<item wave="2" lineId="0" time="30" monsterType="18" monsterLevel="1" />
+		<item wave="2" lineId="1" time="31" monsterType="18" monsterLevel="1" />
+		<item wave="2" lineId="0" time="32" monsterType="21" monsterLevel="1" />
+		<item wave="2" lineId="1" time="33" monsterType="21" monsterLevel="1" />
+
+		<item wave="3" lineId="4" time="56" monsterType="18"
+			monsterLevel="1" /> <!-- 加血那个怪 -->
+		<item wave="3" lineId="4" time="56" monsterType="18"
+			monsterLevel="1" />
+		<item wave="3" lineId="5" time="56" monsterType="21"
+			monsterLevel="1" />
+		<item wave="3" lineId="5" time="56" monsterType="21"
+			monsterLevel="1" />
+		<item wave="3" lineId="0" time="58" monsterType="18"
+			monsterLevel="1" />
+		<item wave="3" lineId="1" time="58" monsterType="18"
+			monsterLevel="1" />
+		<item wave="3" lineId="0" time="58" monsterType="21"
+			monsterLevel="1" />
+		<item wave="3" lineId="1" time="58" monsterType="21"
+			monsterLevel="1" />
+		<item wave="3" lineId="0" time="60" monsterType="18"
+			monsterLevel="1" />
+		<item wave="3" lineId="1" time="60" monsterType="18"
+			monsterLevel="1" />
+		<item wave="3" lineId="0" time="60" monsterType="21"
+			monsterLevel="1" />
+		<item wave="3" lineId="1" time="60" monsterType="21"
+			monsterLevel="1" />
+
+		<item wave="4" lineId="0" time="80" monsterType="9"
+			monsterLevel="1" />      <!--棒槌带队20 -->
+		<item wave="4" lineId="1" time="80" monsterType="9"
+			monsterLevel="1" />
+		<item wave="4" lineId="0" time="84" monsterType="9"
+			monsterLevel="1" />
+		<item wave="4" lineId="1" time="84" monsterType="9"
+			monsterLevel="1" />
+		<item wave="4" lineId="0" time="86" monsterType="9"
+			monsterLevel="1" />
+		<item wave="4" lineId="1" time="86" monsterType="9"
+			monsterLevel="1" />
+		<item wave="4" lineId="0" time="88" monsterType="9"
+			monsterLevel="1" />
+		<item wave="4" lineId="1" time="88" monsterType="9"
+			monsterLevel="1" />
+
+		<item wave="5" lineId="2" time="110" monsterType="1"
+			monsterLevel="1" />      <!--棒槌带队,带黄怪 -->
+		<item wave="5" lineId="3" time="110" monsterType="1"
+			monsterLevel="1" />
+		<item wave="5" lineId="2" time="110" monsterType="1"
+			monsterLevel="1" />
+		<item wave="5" lineId="3" time="110" monsterType="1"
+			monsterLevel="1" />
+		<item wave="5" lineId="2" time="115" monsterType="5"
+			monsterLevel="1" />
+		<item wave="5" lineId="2" time="115" monsterType="1"
+			monsterLevel="1" />
+		<item wave="5" lineId="3" time="115" monsterType="1"
+			monsterLevel="1" />
+		<item wave="5" lineId="2" time="115" monsterType="1"
+			monsterLevel="1" />
+		<item wave="5" lineId="3" time="115" monsterType="1"
+			monsterLevel="1" />
+		<item wave="5" lineId="3" time="120" monsterType="5"
+			monsterLevel="1" />
+		<item wave="5" lineId="0" time="110" monsterType="17"
+			monsterLevel="1" />
+		<item wave="5" lineId="1" time="110" monsterType="17"
+			monsterLevel="1" />
+		<item wave="5" lineId="0" time="115" monsterType="17"
+			monsterLevel="1" />
+		<item wave="5" lineId="1" time="115" monsterType="17"
+			monsterLevel="1" />
+		<item wave="5" lineId="0" time="120" monsterType="18"
+			monsterLevel="1" />
+		<item wave="5" lineId="1" time="120" monsterType="18"
+			monsterLevel="1" />
+		<item wave="5" lineId="0" time="120" monsterType="21"
+			monsterLevel="1" />
+		<item wave="5" lineId="1" time="120" monsterType="21"
+			monsterLevel="1" />
+
+		<item wave="6" lineId="1" time="150" monsterType="18"
+			monsterLevel="1" /> <!--棒槌带队，会加血的怪 -->
+		<item wave="6" lineId="0" time="150" monsterType="18"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="151" monsterType="18"
+			monsterLevel="1" />
+		<item wave="6" lineId="0" time="151" monsterType="18"
+			monsterLevel="1" />
+		<item wave="6" lineId="4" time="154" monsterType="17"
+			monsterLevel="1" />
+		<item wave="6" lineId="5" time="154" monsterType="17"
+			monsterLevel="1" />
+		<item wave="6" lineId="4" time="155" monsterType="17"
+			monsterLevel="1" />
+		<item wave="6" lineId="5" time="155" monsterType="17"
+			monsterLevel="1" />
+		<item wave="6" lineId="0" time="158" monsterType="19"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="158" monsterType="19"
+			monsterLevel="1" />
+		<item wave="6" lineId="0" time="159" monsterType="19"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="159" monsterType="19"
+			monsterLevel="1" />	
+		<item wave="6" lineId="4" time="162" monsterType="20"
+			monsterLevel="1" />
+		<item wave="6" lineId="5" time="162" monsterType="20"
+			monsterLevel="1" />
+		<item wave="6" lineId="4" time="163" monsterType="20"
+			monsterLevel="1" />
+		<item wave="6" lineId="5" time="163" monsterType="20"
+			monsterLevel="1" />
+		<item wave="6" lineId="0" time="166" monsterType="22"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="166" monsterType="22"
+			monsterLevel="1" />
+		<item wave="6" lineId="0" time="167" monsterType="22"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="167" monsterType="22"
+			monsterLevel="1" />		
+
+		<item wave="7" lineId="1" time="190" monsterType="11"
+			monsterLevel="1" /> <!--黄怪 -->
+		<item wave="7" lineId="0" time="190" monsterType="11"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="191" monsterType="11"
+			monsterLevel="1" />
+		<item wave="7" lineId="1" time="191" monsterType="11"
+			monsterLevel="1" />
+		<item wave="7" lineId="4" time="194" monsterType="11"
+			monsterLevel="1" />
+		<item wave="7" lineId="5" time="194" monsterType="11"
+			monsterLevel="1" />
+		<item wave="7" lineId="4" time="195" monsterType="11"
+			monsterLevel="1" />
+		<item wave="7" lineId="5" time="195" monsterType="11"
+			monsterLevel="1" />
+		<item wave="7" lineId="1" time="200" monsterType="2"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="205" monsterType="2"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="201" monsterType="11"
+			monsterLevel="1" />
+		<item wave="7" lineId="1" time="201" monsterType="11"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="202" monsterType="11"
+			monsterLevel="1" />
+		<item wave="7" lineId="1" time="202" monsterType="11"
+			monsterLevel="1" />
+		<item wave="7" lineId="4" time="205" monsterType="11"
+			monsterLevel="1" />
+		<item wave="7" lineId="5" time="205" monsterType="11"
+			monsterLevel="1" />
+		<item wave="7" lineId="4" time="206" monsterType="11"
+			monsterLevel="1" />
+		<item wave="7" lineId="5" time="206" monsterType="11"
+			monsterLevel="1" />
+
+		<item wave="8" lineId="1" time="215" monsterType="18"
+			monsterLevel="1" /> <!--棒槌 -->
+		<item wave="8" lineId="0" time="215" monsterType="18"
+			monsterLevel="1" />
+		<item wave="8" lineId="4" time="216" monsterType="18"
+			monsterLevel="1" />
+		<item wave="8" lineId="5" time="216" monsterType="18"
+			monsterLevel="1" />
+		<item wave="8" lineId="0" time="215" monsterType="19"
+			monsterLevel="1" />
+		<item wave="8" lineId="1" time="215" monsterType="19"
+			monsterLevel="1" />
+		<item wave="8" lineId="4" time="216" monsterType="22"
+			monsterLevel="1" />
+		<item wave="8" lineId="5" time="217" monsterType="22"
+			monsterLevel="1" />
+		<item wave="8" lineId="1" time="218" monsterType="22"
+			monsterLevel="1" />
+		<item wave="8" lineId="0" time="215" monsterType="22"
+			monsterLevel="1" />
+		<item wave="8" lineId="3" time="216" monsterType="15"
+			monsterLevel="1" />
+		<item wave="8" lineId="2" time="217" monsterType="15"
+			monsterLevel="1" />
+		<item wave="8" lineId="2" time="219" monsterType="15"
+			monsterLevel="1" />
+		<item wave="8" lineId="3" time="220" monsterType="15"
+			monsterLevel="1" />
+		<item wave="8" lineId="2" time="218" monsterType="15"
+			monsterLevel="1" />
+
+		<item wave="9" lineId="2" time="235" monsterType="2"
+			monsterLevel="1" />
+		<item wave="9" lineId="0" time="240" monsterType="2"
+			monsterLevel="1" />
+		<item wave="9" lineId="1" time="243" monsterType="2"
+			monsterLevel="1" />
+		<item wave="9" lineId="0" time="235" monsterType="19"
+			monsterLevel="1" />
+		<item wave="9" lineId="1" time="235" monsterType="19"
+			monsterLevel="1" />
+		<item wave="9" lineId="0" time="236" monsterType="18"
+			monsterLevel="1" />
+		<item wave="9" lineId="1" time="236" monsterType="18"
+			monsterLevel="1" />
+		<item wave="9" lineId="0" time="238" monsterType="18"
+			monsterLevel="1" />
+		<item wave="9" lineId="1" time="238" monsterType="18"
+			monsterLevel="1" />
+		<item wave="9" lineId="4" time="240" monsterType="22"
+			monsterLevel="1" />
+		<item wave="9" lineId="5" time="240" monsterType="22"
+			monsterLevel="1" />
+		<item wave="9" lineId="4" time="242" monsterType="1"
+			monsterLevel="1" />
+		<item wave="9" lineId="5" time="244" monsterType="1"
+			monsterLevel="1" />
+		<item wave="9" lineId="4" time="248" monsterType="1"
+			monsterLevel="1" />
+		<item wave="9" lineId="5" time="242" monsterType="1"
+			monsterLevel="1" />
+		<item wave="9" lineId="4" time="244" monsterType="11"
+			monsterLevel="1" />
+		<item wave="9" lineId="5" time="248" monsterType="11"
+			monsterLevel="1" />
+		<item wave="9" lineId="4" time="242" monsterType="11"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="235" monsterType="15"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="236" monsterType="15"
+			monsterLevel="1" />
+		<item wave="9" lineId="1" time="237" monsterType="15"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="238" monsterType="15"
+			monsterLevel="1" />
+		<item wave="9" lineId="1" time="249" monsterType="15"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="248" monsterType="1"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="242" monsterType="1"
+			monsterLevel="1" />
+
+		<item wave="10" lineId="4" time="285" monsterType="18"
+			monsterLevel="1" /> <!--黄怪 -->
+		<item wave="10" lineId="5" time="285" monsterType="18"
+			monsterLevel="1" />
+		<item wave="10" lineId="4" time="286" monsterType="18"
+			monsterLevel="1" />
+		<item wave="10" lineId="5" time="286" monsterType="18"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="288" monsterType="22"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="288" monsterType="22"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="290" monsterType="20"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="290" monsterType="20"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="287" monsterType="1"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="287" monsterType="1"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="299" monsterType="1"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="299" monsterType="1"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="290" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="290" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="292" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="292" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="293" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="293" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="295" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="295" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="296" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="296" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="285" monsterType="15"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="285" monsterType="15"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="290" monsterType="15"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="290" monsterType="15"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="285" monsterType="1"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="285" monsterType="1"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="290" monsterType="1"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="290" monsterType="1"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="290" monsterType="2"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="295" monsterType="2"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="298" monsterType="2"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="301" monsterType="2"
+			monsterLevel="1" />
+	</chapter>
+	<chapter id="9">		  							    <!-- 第九章节 -->
+	  							    <!-- 第九章节 -->
+		<item wave="1" lineId="1" time="0" monsterType="18" monsterLevel="1" />
+		<item wave="1" lineId="0" time="0" monsterType="18" monsterLevel="1" />
+		<item wave="1" lineId="2" time="0" monsterType="21" monsterLevel="1" />
+		<item wave="1" lineId="3" time="0" monsterType="21" monsterLevel="1" />
+		<item wave="1" lineId="0" time="4" monsterType="18" monsterLevel="1" />
+		<item wave="1" lineId="1" time="4" monsterType="18" monsterLevel="1" />
+		<item wave="1" lineId="2" time="4" monsterType="21" monsterLevel="1" />
+		<item wave="1" lineId="3" time="4" monsterType="21" monsterLevel="1" />
+		<item wave="1" lineId="1" time="6" monsterType="18" monsterLevel="1" />
+		<item wave="1" lineId="2" time="6" monsterType="21" monsterLevel="1" />
+
+		<item wave="2" lineId="1" time="24" monsterType="18" monsterLevel="1" /> <!-- 小黄人那个怪 -->
+		<item wave="2" lineId="0" time="24" monsterType="18" monsterLevel="1" />
+		<item wave="2" lineId="2" time="24" monsterType="21" monsterLevel="1" />
+		<item wave="2" lineId="3" time="24" monsterType="21" monsterLevel="1" />
+		<item wave="2" lineId="0" time="26" monsterType="18" monsterLevel="1" />
+		<item wave="2" lineId="1" time="26" monsterType="18" monsterLevel="1" />
+		<item wave="2" lineId="2" time="26" monsterType="21" monsterLevel="1" />
+		<item wave="2" lineId="3" time="26" monsterType="21" monsterLevel="1" />
+		<item wave="2" lineId="4" time="28" monsterType="11" monsterLevel="1" />
+		<item wave="2" lineId="4" time="28" monsterType="11" monsterLevel="1" />
+		<item wave="2" lineId="4" time="28" monsterType="11" monsterLevel="1" />
+		<item wave="2" lineId="5" time="33" monsterType="11" monsterLevel="1" />
+		<item wave="2" lineId="5" time="33" monsterType="11" monsterLevel="1" />
+		<item wave="2" lineId="5" time="33" monsterType="11" monsterLevel="1" />
+
+		<item wave="3" lineId="1" time="56" monsterType="18"
+			monsterLevel="1" /> <!-- 加血那个怪 -->
+		<item wave="3" lineId="0" time="56" monsterType="18"
+			monsterLevel="1" />
+		<item wave="3" lineId="2" time="56" monsterType="21"
+			monsterLevel="1" />
+		<item wave="3" lineId="3" time="56" monsterType="21"
+			monsterLevel="1" />
+		<item wave="3" lineId="0" time="58" monsterType="18"
+			monsterLevel="1" />
+		<item wave="3" lineId="1" time="58" monsterType="18"
+			monsterLevel="1" />
+		<item wave="3" lineId="2" time="58" monsterType="21"
+			monsterLevel="1" />
+		<item wave="3" lineId="3" time="58" monsterType="21"
+			monsterLevel="1" />
+		<item wave="3" lineId="0" time="60" monsterType="18"
+			monsterLevel="1" />
+		<item wave="3" lineId="1" time="60" monsterType="18"
+			monsterLevel="1" />
+		<item wave="3" lineId="2" time="60" monsterType="21"
+			monsterLevel="1" />
+		<item wave="3" lineId="3" time="60" monsterType="21"
+			monsterLevel="1" />
+
+		<item wave="4" lineId="1" time="80" monsterType="18"
+			monsterLevel="1" />      <!--棒槌带队20 -->
+		<item wave="4" lineId="3" time="80" monsterType="18"
+			monsterLevel="1" />
+		<item wave="4" lineId="2" time="85" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="3" time="85" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="0" time="85" monsterType="18"
+			monsterLevel="1" />
+		<item wave="4" lineId="1" time="85" monsterType="18"
+			monsterLevel="1" />
+		<item wave="4" lineId="2" time="88" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="3" time="88" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="0" time="88" monsterType="18"
+			monsterLevel="1" />
+		<item wave="4" lineId="1" time="88" monsterType="18"
+			monsterLevel="1" />
+		<item wave="4" lineId="3" time="90" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="0" time="90" monsterType="18"
+			monsterLevel="1" />
+
+		<item wave="5" lineId="4" time="110" monsterType="11"
+			monsterLevel="1" />      <!--棒槌带队,带黄怪 -->
+		<item wave="5" lineId="4" time="110" monsterType="11"
+			monsterLevel="1" />
+		<item wave="5" lineId="5" time="110" monsterType="11"
+			monsterLevel="1" />
+		<item wave="5" lineId="5" time="110" monsterType="11"
+			monsterLevel="1" />
+		<item wave="5" lineId="4" time="110" monsterType="11"
+			monsterLevel="1" />
+		<item wave="5" lineId="4" time="110" monsterType="11"
+			monsterLevel="1" />
+		<item wave="5" lineId="5" time="115" monsterType="11"
+			monsterLevel="1" />
+		<item wave="5" lineId="5" time="115" monsterType="11"
+			monsterLevel="1" />
+		<item wave="5" lineId="5" time="115" monsterType="11"
+			monsterLevel="1" />
+		<item wave="5" lineId="5" time="115" monsterType="11"
+			monsterLevel="1" />
+		<item wave="5" lineId="4" time="115" monsterType="11"
+			monsterLevel="1" />
+		<item wave="5" lineId="4" time="115" monsterType="11"
+			monsterLevel="1" />
+		<item wave="5" lineId="4" time="120" monsterType="11"
+			monsterLevel="1" />
+		<item wave="5" lineId="4" time="120" monsterType="11"
+			monsterLevel="1" />
+		<item wave="5" lineId="5" time="120" monsterType="11"
+			monsterLevel="1" />
+		<item wave="5" lineId="5" time="120" monsterType="11"
+			monsterLevel="1" />
+		<item wave="5" lineId="5" time="120" monsterType="11"
+			monsterLevel="1" />
+		<item wave="5" lineId="4" time="120" monsterType="11"
+			monsterLevel="1" />
+
+		<item wave="6" lineId="1" time="150" monsterType="18"
+			monsterLevel="1" /> <!--棒槌带队，会加血的怪 -->
+		<item wave="6" lineId="3" time="150" monsterType="18"
+			monsterLevel="1" />
+		<item wave="6" lineId="2" time="155" monsterType="2"
+			monsterLevel="1" />
+		<item wave="6" lineId="3" time="155" monsterType="2"
+			monsterLevel="1" />
+		<item wave="6" lineId="0" time="156" monsterType="2"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="157" monsterType="2"
+			monsterLevel="1" />
+		<item wave="6" lineId="2" time="158" monsterType="2"
+			monsterLevel="1" />
+		<item wave="6" lineId="3" time="159" monsterType="2"
+			monsterLevel="1" />
+		<item wave="6" lineId="0" time="159" monsterType="2"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="160" monsterType="2"
+			monsterLevel="1" />
+
+		<item wave="7" lineId="1" time="190" monsterType="18"
+			monsterLevel="1" /> <!--黄怪 -->
+		<item wave="7" lineId="0" time="190" monsterType="18"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="190" monsterType="18"
+			monsterLevel="1" />
+		<item wave="7" lineId="3" time="190" monsterType="18"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="192" monsterType="2"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="192" monsterType="2"
+			monsterLevel="1" />
+		<item wave="7" lineId="3" time="192" monsterType="2"
+			monsterLevel="1" />
+		<item wave="7" lineId="1" time="192" monsterType="2"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="193" monsterType="2"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="193" monsterType="2"
+			monsterLevel="1" />
+		<item wave="7" lineId="4" time="190" monsterType="11"
+			monsterLevel="1" />
+		<item wave="7" lineId="4" time="190" monsterType="11"
+			monsterLevel="1" />
+		<item wave="7" lineId="5" time="190" monsterType="11"
+			monsterLevel="1" />
+		<item wave="7" lineId="5" time="190" monsterType="11"
+			monsterLevel="1" />
+		<item wave="7" lineId="4" time="198" monsterType="11"
+			monsterLevel="1" />
+		<item wave="7" lineId="4" time="198" monsterType="11"
+			monsterLevel="1" />
+		<item wave="7" lineId="5" time="198" monsterType="11"
+			monsterLevel="1" />
+		<item wave="7" lineId="5" time="198" monsterType="11"
+			monsterLevel="1" />
+
+		<item wave="8" lineId="1" time="215" monsterType="2"
+			monsterLevel="1" /> <!--棒槌 -->
+		<item wave="8" lineId="0" time="215" monsterType="2"
+			monsterLevel="1" />
+		<item wave="8" lineId="3" time="215" monsterType="2"
+			monsterLevel="1" />
+		<item wave="8" lineId="2" time="215" monsterType="2"
+			monsterLevel="1" />
+		<item wave="8" lineId="1" time="216" monsterType="2"
+			monsterLevel="1" />
+		<item wave="8" lineId="0" time="217" monsterType="2"
+			monsterLevel="1" />
+		<item wave="8" lineId="2" time="218" monsterType="2"
+			monsterLevel="1" />
+		<item wave="8" lineId="0" time="215" monsterType="4"
+			monsterLevel="1" />
+		<item wave="8" lineId="3" time="215" monsterType="4"
+			monsterLevel="1" />
+		<item wave="8" lineId="2" time="215" monsterType="4"
+			monsterLevel="1" />
+		<item wave="8" lineId="1" time="216" monsterType="4"
+			monsterLevel="1" />
+		<item wave="8" lineId="0" time="217" monsterType="4"
+			monsterLevel="1" />
+		<item wave="8" lineId="2" time="218" monsterType="4"
+			monsterLevel="1" />
+
+		<item wave="9" lineId="2" time="235" monsterType="2"
+			monsterLevel="1" /> <!--大小地精，加血怪 -->
+		<item wave="9" lineId="0" time="235" monsterType="2"
+			monsterLevel="1" />
+		<item wave="9" lineId="4" time="235" monsterType="2"
+			monsterLevel="1" />
+		<item wave="9" lineId="0" time="242" monsterType="11"
+			monsterLevel="1" />
+		<item wave="9" lineId="0" time="244" monsterType="11"
+			monsterLevel="1" />
+		<item wave="9" lineId="0" time="246" monsterType="11"
+			monsterLevel="1" />
+		<item wave="9" lineId="1" time="242" monsterType="11"
+			monsterLevel="1" />
+		<item wave="9" lineId="1" time="244" monsterType="11"
+			monsterLevel="1" />
+		<item wave="9" lineId="1" time="245" monsterType="11"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="242" monsterType="11"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="244" monsterType="11"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="248" monsterType="11"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="242" monsterType="11"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="244" monsterType="11"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="248" monsterType="11"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="242" monsterType="11"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="244" monsterType="11"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="248" monsterType="11"
+			monsterLevel="1" />
+		<item wave="9" lineId="1" time="242" monsterType="11"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="244" monsterType="11"
+			monsterLevel="1" />
+		<item wave="9" lineId="1" time="248" monsterType="11"
+			monsterLevel="1" />
+
+		<item wave="10" lineId="1" time="285" monsterType="18"
+			monsterLevel="1" /> <!--黄怪 -->
+		<item wave="10" lineId="0" time="285" monsterType="18"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="285" monsterType="18"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="285" monsterType="18"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="285" monsterType="18"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="285" monsterType="18"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="285" monsterType="18"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="285" monsterType="18"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="290" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="290" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="290" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="290" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="290" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="290" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="4" time="290" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="5" time="290" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="5" time="290" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="297" monsterType="2"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="297" monsterType="2"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="297" monsterType="2"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="297" monsterType="16"
+			monsterLevel="1" />
+	</chapter>
+	<chapter id="10">		  							    <!-- 第十章节 -->
+	<item wave="1" lineId="2" time="1" monsterType="20" monsterLevel="1" />  <!-- 波数1，路线id，时间，怪物id -->
+		<item wave="1" lineId="2" time="1" monsterType="20" monsterLevel="1" />  <!-- 波数1，路线id，时间，怪物id -->
+		<item wave="1" lineId="2" time="1" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="2" time="2" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="2" time="2" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="4" time="2" monsterType="12" monsterLevel="1" />
+		<item wave="1" lineId="5" time="2" monsterType="12" monsterLevel="1" />
+
+		<item wave="2" lineId="4" time="32" monsterType="12"
+			monsterLevel="1" /> <!-- 波数2，路线id，时间，怪物id -->
+		<item wave="2" lineId="4" time="33" monsterType="12"
+			monsterLevel="1" />
+		<item wave="2" lineId="5" time="32" monsterType="12"
+			monsterLevel="1" />
+		<item wave="2" lineId="5" time="33" monsterType="12"
+			monsterLevel="1" />
+		<item wave="2" lineId="4" time="34" monsterType="12"
+			monsterLevel="1" />
+		<item wave="2" lineId="5" time="34" monsterType="12"
+			monsterLevel="1" />
+		<item wave="2" lineId="0" time="32" monsterType="21"
+			monsterLevel="1" />
+		<item wave="2" lineId="1" time="32" monsterType="21"
+			monsterLevel="1" />
+		<item wave="2" lineId="2" time="32" monsterType="21"
+			monsterLevel="1" />
+		<item wave="2" lineId="3" time="32" monsterType="21"
+			monsterLevel="1" />
+
+		<item wave="3" lineId="5" time="62" monsterType="12"
+			monsterLevel="1" /> <!-- 波数3，路线id，时间，怪物id -->
+		<item wave="3" lineId="5" time="62" monsterType="12"
+			monsterLevel="1" />
+		<item wave="3" lineId="5" time="64" monsterType="12"
+			monsterLevel="1" />
+		<item wave="3" lineId="4" time="64" monsterType="12"
+			monsterLevel="1" />
+		<item wave="3" lineId="4" time="68" monsterType="12"
+			monsterLevel="1" />
+		<item wave="3" lineId="4" time="68" monsterType="12"
+			monsterLevel="1" />
+		<item wave="3" lineId="0" time="62" monsterType="11"
+			monsterLevel="1" />
+		<item wave="3" lineId="1" time="62" monsterType="11"
+			monsterLevel="1" />
+		<item wave="3" lineId="2" time="62" monsterType="11"
+			monsterLevel="1" />
+		<item wave="3" lineId="3" time="62" monsterType="11"
+			monsterLevel="1" />
+		<item wave="3" lineId="0" time="64" monsterType="11"
+			monsterLevel="1" />
+		<item wave="3" lineId="2" time="64" monsterType="11"
+			monsterLevel="1" />
+
+		<item wave="4" lineId="0" time="90" monsterType="9" monsterLevel="1" /> <!-- 波数4，路线id，时间，怪物id -->
+		<item wave="4" lineId="0" time="90" monsterType="9" monsterLevel="1" />
+		<item wave="4" lineId="0" time="92" monsterType="9" monsterLevel="1" />
+		<item wave="4" lineId="1" time="90" monsterType="9" monsterLevel="1" />
+		<item wave="4" lineId="1" time="90" monsterType="9" monsterLevel="1" />
+		<item wave="4" lineId="1" time="92" monsterType="9" monsterLevel="1" />
+		<item wave="4" lineId="2" time="90" monsterType="9" monsterLevel="1" />
+		<item wave="4" lineId="2" time="90" monsterType="9" monsterLevel="1" />
+		<item wave="4" lineId="2" time="92" monsterType="9" monsterLevel="1" />
+		<item wave="4" lineId="3" time="90" monsterType="9" monsterLevel="1" />
+		<item wave="4" lineId="3" time="90" monsterType="9" monsterLevel="1" />
+		<item wave="4" lineId="3" time="92" monsterType="9" monsterLevel="1" />
+
+
+		<item wave="5" lineId="5" time="130" monsterType="12"
+			monsterLevel="1" /> <!-- 波5，路线id，时间，怪物id -->
+		<item wave="5" lineId="4" time="130" monsterType="12"
+			monsterLevel="1" />
+		<item wave="5" lineId="5" time="133" monsterType="12"
+			monsterLevel="1" />
+		<item wave="5" lineId="4" time="133" monsterType="12"
+			monsterLevel="1" />
+		<item wave="5" lineId="5" time="134" monsterType="12"
+			monsterLevel="1" />
+		<item wave="5" lineId="4" time="134" monsterType="12"
+			monsterLevel="1" />
+		<item wave="5" lineId="0" time="120" monsterType="11"
+			monsterLevel="1" />
+		<item wave="5" lineId="0" time="120" monsterType="11"
+			monsterLevel="1" />
+		<item wave="5" lineId="1" time="120" monsterType="11"
+			monsterLevel="1" />
+		<item wave="5" lineId="1" time="120" monsterType="11"
+			monsterLevel="1" />
+		<item wave="5" lineId="0" time="121" monsterType="11"
+			monsterLevel="1" />
+		<item wave="5" lineId="0" time="121" monsterType="11"
+			monsterLevel="1" />
+		<item wave="5" lineId="1" time="121" monsterType="11"
+			monsterLevel="1" />
+		<item wave="5" lineId="1" time="121" monsterType="11"
+			monsterLevel="1" />
+		<item wave="5" lineId="2" time="120" monsterType="18"
+			monsterLevel="1" />
+		<item wave="5" lineId="2" time="120" monsterType="18"
+			monsterLevel="1" />
+		<item wave="5" lineId="3" time="121" monsterType="18"
+			monsterLevel="1" />
+		<item wave="5" lineId="3" time="121" monsterType="18"
+			monsterLevel="1" />
+
+		<item wave="6" lineId="5" time="160" monsterType="12"
+			monsterLevel="1" /> <!-- 波6，路线id，时间，怪物id -->
+		<item wave="6" lineId="4" time="160" monsterType="12"
+			monsterLevel="1" />
+		<item wave="6" lineId="5" time="163" monsterType="12"
+			monsterLevel="1" />
+		<item wave="6" lineId="4" time="163" monsterType="12"
+			monsterLevel="1" />
+		<item wave="6" lineId="5" time="164" monsterType="12"
+			monsterLevel="1" />
+		<item wave="6" lineId="4" time="164" monsterType="12"
+			monsterLevel="1" />
+		<item wave="6" lineId="0" time="160" monsterType="22"
+			monsterLevel="1" />
+		<item wave="6" lineId="0" time="160" monsterType="22"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="150" monsterType="11"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="150" monsterType="11"
+			monsterLevel="1" />
+		<item wave="6" lineId="0" time="151" monsterType="11"
+			monsterLevel="1" />
+		<item wave="6" lineId="0" time="151" monsterType="11"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="151" monsterType="11"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="151" monsterType="11"
+			monsterLevel="1" />
+		<item wave="6" lineId="2" time="150" monsterType="18"
+			monsterLevel="1" />
+		<item wave="6" lineId="2" time="150" monsterType="18"
+			monsterLevel="1" />
+		<item wave="6" lineId="3" time="151" monsterType="18"
+			monsterLevel="1" />
+		<item wave="6" lineId="3" time="151" monsterType="18"
+			monsterLevel="1" />
+
+		<item wave="7" lineId="0" time="180" monsterType="9"
+			monsterLevel="1" /> <!-- 波数7，路线id，时间，怪物id -->
+		<item wave="7" lineId="1" time="180" monsterType="9"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="180" monsterType="9"
+			monsterLevel="1" />
+		<item wave="7" lineId="1" time="181" monsterType="9"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="181" monsterType="9"
+			monsterLevel="1" />
+		<item wave="7" lineId="1" time="181" monsterType="9"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="180" monsterType="9"
+			monsterLevel="1" />
+		<item wave="7" lineId="3" time="180" monsterType="9"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="180" monsterType="9"
+			monsterLevel="1" />
+		<item wave="7" lineId="3" time="181" monsterType="9"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="181" monsterType="9"
+			monsterLevel="1" />
+		<item wave="7" lineId="3" time="181" monsterType="9"
+			monsterLevel="1" />
+		<item wave="7" lineId="1" time="181" monsterType="9"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="180" monsterType="9"
+			monsterLevel="1" />
+		<item wave="7" lineId="3" time="180" monsterType="9"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="180" monsterType="9"
+			monsterLevel="1" />
+		<item wave="7" lineId="3" time="181" monsterType="9"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="181" monsterType="9"
+			monsterLevel="1" />
+		<item wave="7" lineId="3" time="181" monsterType="9"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="180" monsterType="9"
+			monsterLevel="1" />
+		<item wave="7" lineId="3" time="181" monsterType="9"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="181" monsterType="9"
+			monsterLevel="1" />
+		<item wave="7" lineId="3" time="181" monsterType="9"
+			monsterLevel="1" />	
+
+		<item wave="8" lineId="5" time="210" monsterType="12"
+			monsterLevel="1" /> <!-- 波8，路线id，时间，怪物id -->
+		<item wave="8" lineId="4" time="210" monsterType="12"
+			monsterLevel="1" />
+		<item wave="8" lineId="5" time="213" monsterType="12"
+			monsterLevel="1" />
+		<item wave="8" lineId="4" time="213" monsterType="12"
+			monsterLevel="1" />
+		<item wave="8" lineId="5" time="214" monsterType="12"
+			monsterLevel="1" />
+		<item wave="8" lineId="4" time="214" monsterType="12"
+			monsterLevel="1" />
+		<item wave="8" lineId="5" time="230" monsterType="12"
+			monsterLevel="1" />
+		<item wave="8" lineId="4" time="230" monsterType="12"
+			monsterLevel="1" />
+		<item wave="8" lineId="0" time="220" monsterType="22"
+			monsterLevel="1" />
+		<item wave="8" lineId="0" time="220" monsterType="22"
+			monsterLevel="1" />
+		<item wave="8" lineId="1" time="210" monsterType="11"
+			monsterLevel="1" />
+		<item wave="8" lineId="1" time="210" monsterType="11"
+			monsterLevel="1" />
+		<item wave="8" lineId="0" time="211" monsterType="11"
+			monsterLevel="1" />
+		<item wave="8" lineId="0" time="211" monsterType="11"
+			monsterLevel="1" />
+		<item wave="8" lineId="1" time="211" monsterType="11"
+			monsterLevel="1" />
+		<item wave="8" lineId="1" time="211" monsterType="11"
+			monsterLevel="1" />
+		<item wave="8" lineId="2" time="210" monsterType="18"
+			monsterLevel="1" />
+		<item wave="8" lineId="2" time="210" monsterType="18"
+			monsterLevel="1" />
+		<item wave="8" lineId="3" time="211" monsterType="18"
+			monsterLevel="1" />
+		<item wave="8" lineId="3" time="211" monsterType="18"
+			monsterLevel="1" />
+		<item wave="8" lineId="2" time="215" monsterType="18"
+			monsterLevel="1" />
+		<item wave="8" lineId="2" time="215" monsterType="18"
+			monsterLevel="1" />
+		<item wave="8" lineId="3" time="216" monsterType="18"
+			monsterLevel="1" />
+		<item wave="8" lineId="3" time="216" monsterType="18"
+			monsterLevel="1" />
+
+		<item wave="9" lineId="1" time="230" monsterType="17"
+			monsterLevel="1" />  <!-- 波数9，路线id，时间，怪物id -->
+		<item wave="9" lineId="0" time="232" monsterType="22"
+			monsterLevel="1" />
+		<item wave="9" lineId="0" time="233" monsterType="22"
+			monsterLevel="1" />
+		<item wave="9" lineId="1" time="232" monsterType="22"
+			monsterLevel="1" />
+		<item wave="9" lineId="1" time="233" monsterType="22"
+			monsterLevel="1" />
+		<item wave="9" lineId="4" time="242" monsterType="12"
+			monsterLevel="1" />
+		<item wave="9" lineId="4" time="243" monsterType="12"
+			monsterLevel="1" />
+		<item wave="9" lineId="5" time="242" monsterType="12"
+			monsterLevel="1" />
+		<item wave="9" lineId="5" time="243" monsterType="13"
+			monsterLevel="1" />
+
+		<item wave="10" lineId="5" time="260" monsterType="12"
+			monsterLevel="1" /> <!-- 波10，路线id，时间，怪物id -->
+		<item wave="10" lineId="4" time="260" monsterType="12"
+			monsterLevel="1" />
+		<item wave="10" lineId="5" time="263" monsterType="12"
+			monsterLevel="1" />
+		<item wave="10" lineId="4" time="263" monsterType="12"
+			monsterLevel="1" />
+		<item wave="10" lineId="5" time="264" monsterType="12"
+			monsterLevel="1" />
+		<item wave="10" lineId="4" time="264" monsterType="12"
+			monsterLevel="1" />
+		<item wave="10" lineId="5" time="270" monsterType="12"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="270" monsterType="17"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="272" monsterType="22"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="273" monsterType="22"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="272" monsterType="22"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="273" monsterType="22"
+			monsterLevel="1" />
+		<item wave="10" lineId="4" time="280" monsterType="12"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="270" monsterType="22"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="270" monsterType="22"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="260" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="260" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="261" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="261" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="261" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="261" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="260" monsterType="18"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="260" monsterType="18"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="261" monsterType="18"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="261" monsterType="18"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="265" monsterType="18"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="265" monsterType="18"
+			monsterLevel="1" />
+
+		<item wave="11" lineId="5" time="290" monsterType="12"
+			monsterLevel="1" /> <!-- 波11，路线id，时间，怪物id -->
+		<item wave="11" lineId="4" time="290" monsterType="12"
+			monsterLevel="1" />
+		<item wave="11" lineId="5" time="293" monsterType="12"
+			monsterLevel="1" />
+		<item wave="11" lineId="4" time="291" monsterType="12"
+			monsterLevel="1" />
+		<item wave="11" lineId="5" time="294" monsterType="12"
+			monsterLevel="1" />
+		<item wave="11" lineId="4" time="293" monsterType="12"
+			monsterLevel="1" />
+		<item wave="11" lineId="5" time="294" monsterType="12"
+			monsterLevel="1" />
+		<item wave="11" lineId="4" time="294" monsterType="12"
+			monsterLevel="1" />
+		<item wave="11" lineId="5" time="300" monsterType="12"
+			monsterLevel="1" />
+		<item wave="11" lineId="1" time="300" monsterType="17"
+			monsterLevel="1" />
+		<item wave="11" lineId="0" time="302" monsterType="22"
+			monsterLevel="1" />
+		<item wave="11" lineId="0" time="303" monsterType="22"
+			monsterLevel="1" />
+		<item wave="11" lineId="1" time="302" monsterType="22"
+			monsterLevel="1" />
+		<item wave="11" lineId="1" time="303" monsterType="22"
+			monsterLevel="1" />
+		<item wave="11" lineId="4" time="310" monsterType="12"
+			monsterLevel="1" />
+		<item wave="11" lineId="0" time="300" monsterType="22"
+			monsterLevel="1" />
+		<item wave="11" lineId="0" time="300" monsterType="22"
+			monsterLevel="1" />
+		<item wave="11" lineId="0" time="302" monsterType="22"
+			monsterLevel="1" />
+		<item wave="11" lineId="0" time="302" monsterType="22"
+			monsterLevel="1" />
+		<item wave="11" lineId="1" time="290" monsterType="11"
+			monsterLevel="1" />
+		<item wave="11" lineId="1" time="290" monsterType="11"
+			monsterLevel="1" />
+		<item wave="11" lineId="0" time="291" monsterType="11"
+			monsterLevel="1" />
+		<item wave="11" lineId="0" time="291" monsterType="11"
+			monsterLevel="1" />
+		<item wave="11" lineId="1" time="291" monsterType="11"
+			monsterLevel="1" />
+		<item wave="11" lineId="1" time="291" monsterType="11"
+			monsterLevel="1" />
+		<item wave="11" lineId="2" time="290" monsterType="18"
+			monsterLevel="1" />
+		<item wave="11" lineId="2" time="290" monsterType="18"
+			monsterLevel="1" />
+		<item wave="11" lineId="3" time="291" monsterType="18"
+			monsterLevel="1" />
+		<item wave="11" lineId="3" time="291" monsterType="18"
+			monsterLevel="1" />
+		<item wave="11" lineId="2" time="295" monsterType="18"
+			monsterLevel="1" />
+		<item wave="11" lineId="2" time="295" monsterType="18"
+			monsterLevel="1" />
+		<item wave="11" lineId="3" time="296" monsterType="18"
+			monsterLevel="1" />
+		<item wave="11" lineId="3" time="296" monsterType="18"
+			monsterLevel="1" />
+
+		<item wave="12" lineId="0" time="321" monsterType="11"
+			monsterLevel="1" />  <!-- 波数12，路线id，时间，怪物id -->
+		<item wave="12" lineId="0" time="321" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="0" time="322" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="0" time="322" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="0" time="323" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="1" time="321" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="1" time="321" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="1" time="322" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="1" time="322" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="1" time="323" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="0" time="323" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="0" time="323" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="0" time="324" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="0" time="324" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="0" time="325" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="1" time="323" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="1" time="323" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="1" time="324" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="1" time="324" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="1" time="325" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="0" time="326" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="0" time="326" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="0" time="327" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="0" time="327" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="0" time="328" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="1" time="326" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="1" time="326" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="1" time="327" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="1" time="327" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="1" time="328" monsterType="11"
+			monsterLevel="1" />
+
+		<item wave="13" lineId="5" time="350" monsterType="12"
+			monsterLevel="1" /> <!-- 波13，路线id，时间，怪物id -->
+		<item wave="13" lineId="4" time="350" monsterType="12"
+			monsterLevel="1" />
+		<item wave="13" lineId="5" time="353" monsterType="12"
+			monsterLevel="1" />
+		<item wave="13" lineId="4" time="353" monsterType="12"
+			monsterLevel="1" />
+		<item wave="13" lineId="5" time="354" monsterType="12"
+			monsterLevel="1" />
+		<item wave="13" lineId="4" time="354" monsterType="12"
+			monsterLevel="1" />
+		<item wave="13" lineId="5" time="360" monsterType="12"
+			monsterLevel="1" />
+		<item wave="13" lineId="5" time="358" monsterType="12"
+			monsterLevel="1" />
+		<item wave="13" lineId="4" time="358" monsterType="12"
+			monsterLevel="1" />
+		<item wave="13" lineId="5" time="359" monsterType="12"
+			monsterLevel="1" />
+		<item wave="13" lineId="4" time="359" monsterType="12"
+			monsterLevel="1" />
+		<item wave="13" lineId="5" time="370" monsterType="12"
+			monsterLevel="1" />
+		<item wave="13" lineId="4" time="359" monsterType="13"
+			monsterLevel="1" />
+		<item wave="13" lineId="5" time="370" monsterType="13"
+			monsterLevel="1" />
+		<item wave="13" lineId="1" time="360" monsterType="17"
+			monsterLevel="1" />
+		<item wave="13" lineId="0" time="362" monsterType="22"
+			monsterLevel="1" />
+		<item wave="13" lineId="0" time="363" monsterType="22"
+			monsterLevel="1" />
+		<item wave="13" lineId="1" time="362" monsterType="22"
+			monsterLevel="1" />
+		<item wave="13" lineId="1" time="363" monsterType="22"
+			monsterLevel="1" />
+		<item wave="13" lineId="4" time="370" monsterType="12"
+			monsterLevel="1" />
+		<item wave="13" lineId="0" time="360" monsterType="22"
+			monsterLevel="1" />
+		<item wave="13" lineId="0" time="360" monsterType="22"
+			monsterLevel="1" />
+		<item wave="13" lineId="1" time="350" monsterType="11"
+			monsterLevel="1" />
+		<item wave="13" lineId="1" time="350" monsterType="11"
+			monsterLevel="1" />
+		<item wave="13" lineId="0" time="351" monsterType="11"
+			monsterLevel="1" />
+		<item wave="13" lineId="0" time="351" monsterType="11"
+			monsterLevel="1" />
+		<item wave="13" lineId="4" time="380" monsterType="12"
+			monsterLevel="1" />
+		<item wave="13" lineId="0" time="370" monsterType="22"
+			monsterLevel="1" />
+		<item wave="13" lineId="0" time="370" monsterType="22"
+			monsterLevel="1" />
+		<item wave="13" lineId="1" time="360" monsterType="11"
+			monsterLevel="1" />
+		<item wave="13" lineId="1" time="360" monsterType="11"
+			monsterLevel="1" />
+		<item wave="13" lineId="0" time="361" monsterType="11"
+			monsterLevel="1" />
+		<item wave="13" lineId="0" time="351" monsterType="11"
+			monsterLevel="1" />
+		<item wave="13" lineId="1" time="351" monsterType="11"
+			monsterLevel="1" />
+		<item wave="13" lineId="1" time="351" monsterType="11"
+			monsterLevel="1" />
+		<item wave="13" lineId="2" time="350" monsterType="18"
+			monsterLevel="1" />
+		<item wave="13" lineId="2" time="350" monsterType="18"
+			monsterLevel="1" />
+		<item wave="13" lineId="3" time="351" monsterType="18"
+			monsterLevel="1" />
+		<item wave="13" lineId="3" time="351" monsterType="18"
+			monsterLevel="1" />
+		<item wave="13" lineId="2" time="355" monsterType="18"
+			monsterLevel="1" />
+		<item wave="13" lineId="2" time="355" monsterType="18"
+			monsterLevel="1" />
+		<item wave="13" lineId="3" time="356" monsterType="18"
+			monsterLevel="1" />
+		<item wave="13" lineId="3" time="356" monsterType="18"
+			monsterLevel="1" />
+		<item wave="13" lineId="2" time="360" monsterType="18"
+			monsterLevel="1" />
+		<item wave="13" lineId="2" time="360" monsterType="18"
+			monsterLevel="1" />
+		<item wave="13" lineId="3" time="361" monsterType="18"
+			monsterLevel="1" />
+		<item wave="13" lineId="3" time="361" monsterType="18"
+			monsterLevel="1" />
+	</chapter>
+	<chapter id="11">		  							    <!-- 第十一章节 -->
+	<item wave="1" lineId="1" time="0" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="0" time="0" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="2" time="0" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="3" time="0" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="0" time="4" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="1" time="4" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="2" time="4" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="3" time="4" monsterType="20" monsterLevel="1" />
+		<item wave="1" lineId="2" time="5" monsterType="10" monsterLevel="1" />
+		<item wave="1" lineId="3" time="5" monsterType="10" monsterLevel="1" />
+		<item wave="1" lineId="0" time="5" monsterType="10" monsterLevel="1" />
+		<item wave="1" lineId="1" time="5" monsterType="10" monsterLevel="1" />
+
+		<item wave="2" lineId="1" time="24" monsterType="5" monsterLevel="1" /> <!-- 小黄人那个怪 -->
+		<item wave="2" lineId="0" time="24" monsterType="5" monsterLevel="1" />
+		<item wave="2" lineId="2" time="24" monsterType="5" monsterLevel="1" />
+		<item wave="2" lineId="3" time="24" monsterType="5" monsterLevel="1" />
+		<item wave="2" lineId="0" time="26" monsterType="5" monsterLevel="1" />
+		<item wave="2" lineId="1" time="26" monsterType="5" monsterLevel="1" />
+		<item wave="2" lineId="2" time="26" monsterType="5" monsterLevel="1" />
+		<item wave="2" lineId="3" time="26" monsterType="5" monsterLevel="1" />
+		<item wave="1" lineId="0" time="25" monsterType="17" monsterLevel="1" />
+		<item wave="1" lineId="3" time="25" monsterType="17" monsterLevel="1" />
+
+		<item wave="3" lineId="1" time="56" monsterType="17"
+			monsterLevel="1" /> <!-- 加血那个怪 -->
+		<item wave="3" lineId="0" time="56" monsterType="17"
+			monsterLevel="1" />
+		<item wave="3" lineId="2" time="56" monsterType="17"
+			monsterLevel="1" />
+		<item wave="3" lineId="3" time="56" monsterType="17"
+			monsterLevel="1" />
+		<item wave="3" lineId="0" time="58" monsterType="17"
+			monsterLevel="1" />
+		<item wave="3" lineId="1" time="58" monsterType="17"
+			monsterLevel="1" />
+		<item wave="3" lineId="2" time="58" monsterType="17"
+			monsterLevel="1" />
+		<item wave="3" lineId="3" time="58" monsterType="17"
+			monsterLevel="1" />
+		<item wave="3" lineId="0" time="60" monsterType="9"
+			monsterLevel="1" />
+		<item wave="3" lineId="1" time="60" monsterType="9"
+			monsterLevel="1" />
+		<item wave="3" lineId="2" time="60" monsterType="9"
+			monsterLevel="1" />
+		<item wave="3" lineId="3" time="60" monsterType="9"
+			monsterLevel="1" />
+
+		
+
+		<item wave="4" lineId="1" time="80" monsterType="19"
+			monsterLevel="1" />      <!--棒槌带队20 -->
+		<item wave="4" lineId="3" time="80" monsterType="19"
+			monsterLevel="1" />
+		<item wave="4" lineId="2" time="85" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="3" time="85" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="0" time="85" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="1" time="85" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="2" time="88" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="3" time="88" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="0" time="88" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="1" time="88" monsterType="21"
+			monsterLevel="1" />
+
+		<item wave="5" lineId="1" time="110" monsterType="19"
+			monsterLevel="1" />      <!--棒槌带队,带黄怪 -->
+		<item wave="5" lineId="3" time="112" monsterType="19"
+			monsterLevel="1" />
+		<item wave="5" lineId="2" time="117" monsterType="21"
+			monsterLevel="1" />
+		<item wave="5" lineId="3" time="117" monsterType="21"
+			monsterLevel="1" />
+		<item wave="5" lineId="0" time="117" monsterType="21"
+			monsterLevel="1" />
+		<item wave="5" lineId="1" time="117" monsterType="21"
+			monsterLevel="1" />
+		<item wave="5" lineId="2" time="120" monsterType="22"
+			monsterLevel="1" />
+		<item wave="5" lineId="3" time="120" monsterType="22"
+			monsterLevel="1" />
+		<item wave="5" lineId="0" time="120" monsterType="3"
+			monsterLevel="1" />
+		<item wave="5" lineId="1" time="120" monsterType="3"
+			monsterLevel="1" />
+
+		<item wave="6" lineId="1" time="150" monsterType="19"
+			monsterLevel="1" /> <!--棒槌带队，会加血的怪 -->
+		<item wave="6" lineId="3" time="150" monsterType="19"
+			monsterLevel="1" />
+		<item wave="6" lineId="2" time="155" monsterType="17"
+			monsterLevel="1" />
+		<item wave="6" lineId="3" time="155" monsterType="17"
+			monsterLevel="1" />
+		<item wave="6" lineId="0" time="156" monsterType="17"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="157" monsterType="17"
+			monsterLevel="1" />
+		<item wave="6" lineId="2" time="158" monsterType="17"
+			monsterLevel="1" />
+		<item wave="6" lineId="3" time="159" monsterType="17"
+			monsterLevel="1" />
+		<item wave="6" lineId="0" time="159" monsterType="17"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="160" monsterType="17"
+			monsterLevel="1" />
+
+		<item wave="7" lineId="5" time="190" monsterType="7"
+			monsterLevel="1" /> <!--黄怪 -->
+		<item wave="7" lineId="7" time="190" monsterType="7"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="190" monsterType="5"
+			monsterLevel="1" />
+		<item wave="7" lineId="3" time="190" monsterType="5"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="192" monsterType="5"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="192" monsterType="5"
+			monsterLevel="1" />
+		<item wave="7" lineId="6" time="192" monsterType="7"
+			monsterLevel="1" />
+		<item wave="7" lineId="4" time="192" monsterType="7"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="193" monsterType="5"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="193" monsterType="5"
+			monsterLevel="1" />
+
+		<item wave="8" lineId="1" time="215" monsterType="18"
+			monsterLevel="1" /> <!--棒槌 -->
+		<item wave="8" lineId="0" time="215" monsterType="18"
+			monsterLevel="1" />
+		<item wave="8" lineId="3" time="215" monsterType="18"
+			monsterLevel="1" />
+		<item wave="8" lineId="2" time="215" monsterType="18"
+			monsterLevel="1" />
+		<item wave="8" lineId="1" time="216" monsterType="19"
+			monsterLevel="1" />
+		<item wave="8" lineId="0" time="217" monsterType="19"
+			monsterLevel="1" />
+		<item wave="8" lineId="2" time="218" monsterType="19"
+			monsterLevel="1" />
+		<item wave="8" lineId="3" time="219" monsterType="19"
+			monsterLevel="1" />
+		<item wave="8" lineId="0" time="217" monsterType="3"
+			monsterLevel="1" />
+		<item wave="8" lineId="2" time="218" monsterType="3"
+			monsterLevel="1" />
+
+		<item wave="9" lineId="1" time="240" monsterType="19"
+			monsterLevel="1" /> <!--大小地精，加血怪 -->
+		<item wave="9" lineId="0" time="240" monsterType="19"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="242" monsterType="20"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="242" monsterType="20"
+			monsterLevel="1" />
+		<item wave="9" lineId="0" time="244" monsterType="21"
+			monsterLevel="1" />
+		<item wave="9" lineId="1" time="244" monsterType="21"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="246" monsterType="17"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="246" monsterType="17"
+			monsterLevel="1" />
+		<item wave="9" lineId="0" time="248" monsterType="19"
+			monsterLevel="1" />
+		<item wave="9" lineId="1" time="248" monsterType="19"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="250" monsterType="20"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="250" monsterType="20"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="252" monsterType="21"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="252" monsterType="21"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="254" monsterType="19"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="254" monsterType="19"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="256" monsterType="20"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="256" monsterType="20"
+			monsterLevel="1" />
+		<item wave="9" lineId="1" time="258" monsterType="20"
+			monsterLevel="1" />
+
+		<item wave="10" lineId="1" time="285" monsterType="3"
+			monsterLevel="1" /> <!--黄怪 -->
+		<item wave="10" lineId="0" time="285" monsterType="3"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="285" monsterType="19"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="285" monsterType="19"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="287" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="287" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="5" time="288" monsterType="7"
+			monsterLevel="1" />
+		<item wave="10" lineId="6" time="288" monsterType="7"
+			monsterLevel="1" />
+		<item wave="10" lineId="5" time="290" monsterType="7"
+			monsterLevel="1" />
+		<item wave="10" lineId="6" time="290" monsterType="7"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="287" monsterType="1"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="287" monsterType="1"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="290" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="290" monsterType="1"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="290" monsterType="1"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="290" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="294" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="294" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="295" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="295" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="296" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="296" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="297" monsterType="5"
+			monsterLevel="1" />
+		
+		<item wave="11" lineId="1" time="325" monsterType="6"
+			monsterLevel="1" /> <!--黄怪 -->
+		<item wave="11" lineId="0" time="325" monsterType="6"
+			monsterLevel="1" />
+		<item wave="11" lineId="2" time="325" monsterType="19"
+			monsterLevel="1" />
+		<item wave="11" lineId="3" time="330" monsterType="19"
+			monsterLevel="1" />
+		<item wave="11" lineId="0" time="332" monsterType="5"
+			monsterLevel="1" />
+		<item wave="11" lineId="1" time="332" monsterType="5"
+			monsterLevel="1" />
+		<item wave="11" lineId="0" time="333" monsterType="6"
+			monsterLevel="1" />
+		<item wave="11" lineId="1" time="333" monsterType="6"
+			monsterLevel="1" />
+		<item wave="11" lineId="5" time="335" monsterType="7"
+			monsterLevel="1" />
+		<item wave="11" lineId="6" time="335" monsterType="7"
+			monsterLevel="1" />
+		<item wave="11" lineId="2" time="332" monsterType="1"
+			monsterLevel="1" />
+		<item wave="11" lineId="3" time="332" monsterType="1"
+			monsterLevel="1" />
+		<item wave="11" lineId="0" time="335" monsterType="5"
+			monsterLevel="1" />
+		<item wave="11" lineId="1" time="335" monsterType="1"
+			monsterLevel="1" />
+		<item wave="11" lineId="2" time="335" monsterType="1"
+			monsterLevel="1" />
+		<item wave="11" lineId="3" time="335" monsterType="11"
+			monsterLevel="1" />
+		<item wave="11" lineId="2" time="339" monsterType="11"
+			monsterLevel="1" />
+		<item wave="11" lineId="3" time="339" monsterType="11"
+			monsterLevel="1" />
+		<item wave="11" lineId="2" time="340" monsterType="11"
+			monsterLevel="1" />
+		<item wave="11" lineId="3" time="340" monsterType="5"
+			monsterLevel="1" />
+		<item wave="11" lineId="2" time="331" monsterType="5"
+			monsterLevel="1" />
+		<item wave="11" lineId="3" time="331" monsterType="5"
+			monsterLevel="1" />
+		<item wave="11" lineId="1" time="332" monsterType="5"
+			monsterLevel="1" />
+			
+		<item wave="12" lineId="1" time="360" monsterType="3"
+			monsterLevel="1" /> <!--黄怪 -->
+		<item wave="12" lineId="0" time="360" monsterType="3"
+			monsterLevel="1" />
+		<item wave="12" lineId="2" time="360" monsterType="19"
+			monsterLevel="1" />
+		<item wave="12" lineId="3" time="360" monsterType="19"
+			monsterLevel="1" />
+		<item wave="12" lineId="0" time="362" monsterType="5"
+			monsterLevel="1" />
+		<item wave="12" lineId="1" time="262" monsterType="5"
+			monsterLevel="1" />
+		<item wave="12" lineId="0" time="363" monsterType="7"
+			monsterLevel="1" />
+		<item wave="12" lineId="1" time="363" monsterType="7"
+			monsterLevel="1" />
+		<item wave="12" lineId="2" time="365" monsterType="7"
+			monsterLevel="1" />
+		<item wave="12" lineId="3" time="365" monsterType="7"
+			monsterLevel="1" />
+		<item wave="12" lineId="2" time="362" monsterType="1"
+			monsterLevel="1" />
+		<item wave="12" lineId="3" time="362" monsterType="1"
+			monsterLevel="1" />
+		<item wave="12" lineId="0" time="365" monsterType="5"
+			monsterLevel="1" />
+		<item wave="12" lineId="1" time="365" monsterType="1"
+			monsterLevel="1" />
+		<item wave="12" lineId="2" time="365" monsterType="1"
+			monsterLevel="1" />
+		<item wave="12" lineId="3" time="365" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="2" time="369" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="3" time="369" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="2" time="370" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="3" time="370" monsterType="5"
+			monsterLevel="1" />
+		<item wave="12" lineId="2" time="371" monsterType="5"
+			monsterLevel="1" />
+		<item wave="12" lineId="3" time="371" monsterType="5"
+			monsterLevel="1" />
+		<item wave="12" lineId="1" time="372" monsterType="5"
+			monsterLevel="1" />
+			
+		<item wave="13" lineId="1" time="400" monsterType="3"
+			monsterLevel="1" /> <!--黄怪 -->
+		<item wave="13" lineId="0" time="400" monsterType="3"
+			monsterLevel="1" />
+		<item wave="13" lineId="2" time="400" monsterType="19"
+			monsterLevel="1" />
+		<item wave="13" lineId="3" time="400" monsterType="19"
+			monsterLevel="1" />
+		<item wave="13" lineId="0" time="402" monsterType="17"
+			monsterLevel="1" />
+		<item wave="13" lineId="1" time="402" monsterType="17"
+			monsterLevel="1" />
+		<item wave="13" lineId="5" time="403" monsterType="7"
+			monsterLevel="1" />
+		<item wave="13" lineId="6" time="403" monsterType="7"
+			monsterLevel="1" />
+		<item wave="13" lineId="0" time="405" monsterType="7"
+			monsterLevel="1" />
+		<item wave="13" lineId="1" time="405" monsterType="7"
+			monsterLevel="1" />
+		<item wave="13" lineId="2" time="405" monsterType="7"
+			monsterLevel="1" />
+		<item wave="13" lineId="3" time="405" monsterType="7"
+			monsterLevel="1" />
+		<item wave="13" lineId="2" time="402" monsterType="1"
+			monsterLevel="1" />
+		<item wave="13" lineId="3" time="402" monsterType="1"
+			monsterLevel="1" />
+		<item wave="13" lineId="0" time="405" monsterType="5"
+			monsterLevel="1" />
+		<item wave="13" lineId="1" time="405" monsterType="1"
+			monsterLevel="1" />
+		<item wave="13" lineId="2" time="405" monsterType="1"
+			monsterLevel="1" />
+		<item wave="13" lineId="3" time="405" monsterType="11"
+			monsterLevel="1" />
+		<item wave="13" lineId="2" time="409" monsterType="11"
+			monsterLevel="1" />
+		<item wave="13" lineId="3" time="409" monsterType="11"
+			monsterLevel="1" />
+		<item wave="13" lineId="2" time="410" monsterType="11"
+			monsterLevel="1" />
+		<item wave="13" lineId="3" time="410" monsterType="19"
+			monsterLevel="1" />
+		<item wave="13" lineId="2" time="410" monsterType="19"
+			monsterLevel="1" />
+		<item wave="13" lineId="3" time="411" monsterType="5"
+			monsterLevel="1" />
+		<item wave="13" lineId="1" time="412" monsterType="5"
+			monsterLevel="1" />
+	</chapter>
+	<chapter id="12">		  							    <!-- 第十二章节 -->
+		<item wave="1" lineId="1" time="0" monsterType="21" monsterLevel="1" />
+		<item wave="1" lineId="0" time="0" monsterType="21" monsterLevel="1" />
+		<item wave="1" lineId="2" time="0" monsterType="21" monsterLevel="1" />
+		<item wave="1" lineId="3" time="0" monsterType="21" monsterLevel="1" />
+		<item wave="1" lineId="0" time="4" monsterType="21" monsterLevel="1" />
+		<item wave="1" lineId="1" time="4" monsterType="21" monsterLevel="1" />
+		<item wave="1" lineId="2" time="4" monsterType="21" monsterLevel="1" />
+		<item wave="1" lineId="3" time="4" monsterType="21" monsterLevel="1" />
+		<item wave="1" lineId="2" time="5" monsterType="10" monsterLevel="1" />
+		<item wave="1" lineId="3" time="5" monsterType="10" monsterLevel="1" />
+		<item wave="1" lineId="0" time="5" monsterType="10" monsterLevel="1" />
+		<item wave="1" lineId="1" time="5" monsterType="10" monsterLevel="1" />
+		<item wave="1" lineId="4" time="5" monsterType="12" monsterLevel="1" />
+		<item wave="1" lineId="5" time="5" monsterType="12" monsterLevel="1" />
+
+		<item wave="2" lineId="1" time="24" monsterType="1" monsterLevel="1" /> 
+		<item wave="2" lineId="0" time="24" monsterType="1" monsterLevel="1" />
+		<item wave="2" lineId="2" time="24" monsterType="1" monsterLevel="1" />
+		<item wave="2" lineId="3" time="24" monsterType="1" monsterLevel="1" />
+		<item wave="2" lineId="0" time="26" monsterType="6" monsterLevel="1" />
+		<item wave="2" lineId="1" time="26" monsterType="6" monsterLevel="1" />
+		<item wave="2" lineId="2" time="26" monsterType="6" monsterLevel="1" />
+		<item wave="2" lineId="3" time="26" monsterType="6" monsterLevel="1" />
+		<item wave="1" lineId="0" time="25" monsterType="17" monsterLevel="1" />
+		<item wave="1" lineId="3" time="25" monsterType="17" monsterLevel="1" />
+		<item wave="1" lineId="1" time="25" monsterType="17" monsterLevel="1" />
+		<item wave="1" lineId="2" time="25" monsterType="17" monsterLevel="1" />
+
+		<item wave="3" lineId="1" time="56" monsterType="17"
+			monsterLevel="1" /> <!-- 加血那个怪 -->
+		<item wave="3" lineId="0" time="56" monsterType="17"
+			monsterLevel="1" />
+		<item wave="3" lineId="2" time="56" monsterType="17"
+			monsterLevel="1" />
+		<item wave="3" lineId="3" time="56" monsterType="17"
+			monsterLevel="1" />
+		<item wave="3" lineId="0" time="58" monsterType="18"
+			monsterLevel="1" />
+		<item wave="3" lineId="1" time="58" monsterType="18"
+			monsterLevel="1" />
+		<item wave="3" lineId="2" time="58" monsterType="18"
+			monsterLevel="1" />
+		<item wave="3" lineId="3" time="58" monsterType="18"
+			monsterLevel="1" />
+		<item wave="3" lineId="0" time="60" monsterType="9"
+			monsterLevel="1" />
+		<item wave="3" lineId="1" time="60" monsterType="9"
+			monsterLevel="1" />
+		<item wave="3" lineId="2" time="60" monsterType="9"
+			monsterLevel="1" />
+		<item wave="3" lineId="3" time="60" monsterType="9"
+			monsterLevel="1" />
+		<item wave="3" lineId="4" time="60" monsterType="12"
+			monsterLevel="1" />
+		<item wave="3" lineId="4" time="60" monsterType="12"
+			monsterLevel="5" />
+		<item wave="3" lineId="5" time="60" monsterType="12"
+			monsterLevel="5" />
+		<item wave="3" lineId="5" time="60" monsterType="12"
+			monsterLevel="1" />
+
+		
+
+		<item wave="4" lineId="1" time="80" monsterType="19"
+			monsterLevel="1" />     
+		<item wave="4" lineId="3" time="80" monsterType="19"
+			monsterLevel="1" />
+		<item wave="4" lineId="2" time="85" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="3" time="85" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="0" time="85" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="1" time="85" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="2" time="88" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="3" time="88" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="0" time="88" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="1" time="88" monsterType="21"
+			monsterLevel="1" />
+		<item wave="4" lineId="0" time="88" monsterType="22"
+			monsterLevel="1" />
+		<item wave="4" lineId="1" time="88" monsterType="22"
+			monsterLevel="1" />
+		<item wave="4" lineId="4" time="88" monsterType="12"
+			monsterLevel="1" />
+		<item wave="4" lineId="4" time="88" monsterType="12"
+			monsterLevel="1" />
+		<item wave="4" lineId="4" time="88" monsterType="12"
+			monsterLevel="1" />
+		<item wave="4" lineId="5" time="88" monsterType="12"
+			monsterLevel="1" />
+		<item wave="4" lineId="5" time="88" monsterType="12"
+			monsterLevel="1" />
+		<item wave="4" lineId="5" time="88" monsterType="12"
+			monsterLevel="1" />
+
+		<item wave="5" lineId="1" time="110" monsterType="19"
+			monsterLevel="1" />     
+		<item wave="5" lineId="3" time="112" monsterType="19"
+			monsterLevel="1" />
+		<item wave="5" lineId="2" time="117" monsterType="21"
+			monsterLevel="1" />
+		<item wave="5" lineId="3" time="117" monsterType="21"
+			monsterLevel="1" />
+		<item wave="5" lineId="0" time="117" monsterType="21"
+			monsterLevel="1" />
+		<item wave="5" lineId="1" time="117" monsterType="21"
+			monsterLevel="1" />
+		<item wave="5" lineId="2" time="120" monsterType="22"
+			monsterLevel="1" />
+		<item wave="5" lineId="3" time="120" monsterType="22"
+			monsterLevel="1" />
+		<item wave="5" lineId="0" time="120" monsterType="3"
+			monsterLevel="1" />
+		<item wave="5" lineId="1" time="120" monsterType="3"
+			monsterLevel="1" />
+		<item wave="5" lineId="5" time="117" monsterType="12"
+			monsterLevel="1" />
+		<item wave="5" lineId="2" time="120" monsterType="12"
+			monsterLevel="4" />
+		<item wave="5" lineId="3" time="120" monsterType="12"
+			monsterLevel="4" />
+		<item wave="5" lineId="0" time="120" monsterType="12"
+			monsterLevel="5" />
+		<item wave="5" lineId="1" time="120" monsterType="12"
+			monsterLevel="5" />
+
+		<item wave="6" lineId="1" time="150" monsterType="9"
+			monsterLevel="1" /> 
+		<item wave="6" lineId="3" time="150" monsterType="9"
+			monsterLevel="1" />
+		<item wave="6" lineId="2" time="155" monsterType="9"
+			monsterLevel="1" />
+		<item wave="6" lineId="3" time="155" monsterType="9"
+			monsterLevel="1" />
+		<item wave="6" lineId="0" time="156" monsterType="9"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="157" monsterType="9"
+			monsterLevel="1" />
+		<item wave="6" lineId="2" time="158" monsterType="9"
+			monsterLevel="1" />
+		<item wave="6" lineId="3" time="159" monsterType="9"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="150" monsterType="9"
+			monsterLevel="1" /> 
+		<item wave="6" lineId="3" time="150" monsterType="9"
+			monsterLevel="1" />
+		<item wave="6" lineId="2" time="155" monsterType="9"
+			monsterLevel="1" />
+		<item wave="6" lineId="3" time="155" monsterType="9"
+			monsterLevel="1" />
+		<item wave="6" lineId="0" time="156" monsterType="9"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="157" monsterType="9"
+			monsterLevel="1" />
+		<item wave="6" lineId="2" time="158" monsterType="9"
+			monsterLevel="1" />
+		<item wave="6" lineId="3" time="159" monsterType="9"
+			monsterLevel="1" />
+		<item wave="6" lineId="0" time="159" monsterType="12"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="160" monsterType="12"
+			monsterLevel="1" />
+		<item wave="6" lineId="0" time="159" monsterType="12"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="160" monsterType="12"
+			monsterLevel="1" />	
+		<item wave="6" lineId="0" time="163" monsterType="13"
+			monsterLevel="1" />
+		<item wave="6" lineId="1" time="163" monsterType="13"
+			monsterLevel="1" />
+
+		<item wave="7" lineId="5" time="190" monsterType="17"
+			monsterLevel="1" /> <!--黄怪 -->
+		<item wave="7" lineId="5" time="190" monsterType="17"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="190" monsterType="5"
+			monsterLevel="1" />
+		<item wave="7" lineId="3" time="190" monsterType="5"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="192" monsterType="5"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="192" monsterType="5"
+			monsterLevel="1" />
+		<item wave="7" lineId="5" time="192" monsterType="17"
+			monsterLevel="1" />
+		<item wave="7" lineId="4" time="192" monsterType="17"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="193" monsterType="5"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="193" monsterType="5"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="193" monsterType="18"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="193" monsterType="18"
+			monsterLevel="1" />
+		<item wave="7" lineId="4" time="192" monsterType="12"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="193" monsterType="12"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="193" monsterType="12"
+			monsterLevel="1" />
+		<item wave="7" lineId="2" time="193" monsterType="12"
+			monsterLevel="1" />
+		<item wave="7" lineId="0" time="193" monsterType="13"
+			monsterLevel="1" />
+
+		<item wave="8" lineId="1" time="215" monsterType="18"
+			monsterLevel="1" /> <!--棒槌 -->
+		<item wave="8" lineId="0" time="215" monsterType="18"
+			monsterLevel="1" />
+		<item wave="8" lineId="3" time="215" monsterType="18"
+			monsterLevel="1" />
+		<item wave="8" lineId="2" time="215" monsterType="18"
+			monsterLevel="1" />
+		<item wave="8" lineId="1" time="216" monsterType="19"
+			monsterLevel="1" />
+		<item wave="8" lineId="0" time="217" monsterType="19"
+			monsterLevel="1" />
+		<item wave="8" lineId="2" time="218" monsterType="19"
+			monsterLevel="1" />
+		<item wave="8" lineId="3" time="219" monsterType="19"
+			monsterLevel="1" />
+		<item wave="8" lineId="0" time="217" monsterType="3"
+			monsterLevel="1" />
+		<item wave="8" lineId="2" time="218" monsterType="3"
+			monsterLevel="1" />
+		<item wave="8" lineId="1" time="226" monsterType="12"
+			monsterLevel="1" />
+		<item wave="8" lineId="0" time="227" monsterType="12"
+			monsterLevel="1" />
+		<item wave="8" lineId="2" time="228" monsterType="12"
+			monsterLevel="1" />
+		<item wave="8" lineId="3" time="229" monsterType="12"
+			monsterLevel="1" />
+		<item wave="8" lineId="0" time="227" monsterType="13"
+			monsterLevel="1" />
+		<item wave="8" lineId="2" time="228" monsterType="13"
+			monsterLevel="1" />
+
+		<item wave="9" lineId="1" time="240" monsterType="19"
+			monsterLevel="1" /> <!--大小地精，加血怪 -->
+		<item wave="9" lineId="0" time="240" monsterType="19"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="242" monsterType="20"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="242" monsterType="20"
+			monsterLevel="1" />
+		<item wave="9" lineId="0" time="244" monsterType="21"
+			monsterLevel="1" />
+		<item wave="9" lineId="1" time="244" monsterType="21"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="246" monsterType="17"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="246" monsterType="17"
+			monsterLevel="1" />
+		<item wave="9" lineId="0" time="248" monsterType="19"
+			monsterLevel="1" />
+		<item wave="9" lineId="1" time="248" monsterType="19"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="250" monsterType="20"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="250" monsterType="20"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="252" monsterType="21"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="252" monsterType="21"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="254" monsterType="19"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="254" monsterType="19"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="256" monsterType="20"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="256" monsterType="20"
+			monsterLevel="1" />
+		<item wave="9" lineId="1" time="258" monsterType="20"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="252" monsterType="12"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="254" monsterType="12"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="254" monsterType="12"
+			monsterLevel="1" />
+		<item wave="9" lineId="2" time="256" monsterType="12"
+			monsterLevel="1" />
+		<item wave="9" lineId="3" time="256" monsterType="12"
+			monsterLevel="1" />
+		<item wave="9" lineId="1" time="258" monsterType="12"
+			monsterLevel="1" />
+
+		<item wave="10" lineId="1" time="285" monsterType="3"
+			monsterLevel="1" /> <!--黄怪 -->
+		<item wave="10" lineId="0" time="285" monsterType="3"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="285" monsterType="19"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="285" monsterType="19"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="287" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="287" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="5" time="288" monsterType="6"
+			monsterLevel="1" />
+		<item wave="10" lineId="4" time="288" monsterType="6"
+			monsterLevel="1" />
+		<item wave="10" lineId="5" time="290" monsterType="6"
+			monsterLevel="1" />
+		<item wave="10" lineId="4" time="290" monsterType="6"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="287" monsterType="1"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="287" monsterType="1"
+			monsterLevel="1" />
+		<item wave="10" lineId="0" time="290" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="290" monsterType="1"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="290" monsterType="1"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="290" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="294" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="294" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="295" monsterType="11"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="295" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="2" time="296" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="3" time="296" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="1" time="297" monsterType="5"
+			monsterLevel="1" />
+		<item wave="10" lineId="4" time="294" monsterType="12"
+			monsterLevel="1" />
+		<item wave="10" lineId="4" time="295" monsterType="12"
+			monsterLevel="1" />
+		<item wave="10" lineId="5" time="295" monsterType="12"
+			monsterLevel="1" />
+		<item wave="10" lineId="5" time="296" monsterType="12"
+			monsterLevel="1" />
+		<item wave="10" lineId="4" time="296" monsterType="13"
+			monsterLevel="1" />
+		<item wave="10" lineId="5" time="297" monsterType="13"
+			monsterLevel="1" />
+		
+		<item wave="11" lineId="1" time="325" monsterType="6"
+			monsterLevel="1" /> <!--黄怪 -->
+		<item wave="11" lineId="0" time="325" monsterType="6"
+			monsterLevel="1" />
+		<item wave="11" lineId="2" time="325" monsterType="19"
+			monsterLevel="1" />
+		<item wave="11" lineId="3" time="330" monsterType="19"
+			monsterLevel="1" />
+		<item wave="11" lineId="0" time="332" monsterType="5"
+			monsterLevel="1" />
+		<item wave="11" lineId="1" time="332" monsterType="5"
+			monsterLevel="1" />
+		<item wave="11" lineId="0" time="333" monsterType="6"
+			monsterLevel="1" />
+		<item wave="11" lineId="1" time="333" monsterType="6"
+			monsterLevel="1" />
+		<item wave="11" lineId="5" time="335" monsterType="17"
+			monsterLevel="1" />
+		<item wave="11" lineId="4" time="335" monsterType="17"
+			monsterLevel="1" />
+		<item wave="11" lineId="2" time="332" monsterType="1"
+			monsterLevel="1" />
+		<item wave="11" lineId="3" time="332" monsterType="1"
+			monsterLevel="1" />
+		<item wave="11" lineId="0" time="335" monsterType="5"
+			monsterLevel="1" />
+		<item wave="11" lineId="1" time="335" monsterType="1"
+			monsterLevel="1" />
+		<item wave="11" lineId="2" time="335" monsterType="1"
+			monsterLevel="1" />
+		<item wave="11" lineId="3" time="335" monsterType="11"
+			monsterLevel="1" />
+		<item wave="11" lineId="2" time="339" monsterType="11"
+			monsterLevel="1" />
+		<item wave="11" lineId="3" time="339" monsterType="11"
+			monsterLevel="1" />
+		<item wave="11" lineId="2" time="340" monsterType="11"
+			monsterLevel="1" />
+		<item wave="11" lineId="3" time="340" monsterType="5"
+			monsterLevel="1" />
+		<item wave="11" lineId="2" time="331" monsterType="5"
+			monsterLevel="1" />
+		<item wave="11" lineId="3" time="331" monsterType="5"
+			monsterLevel="1" />
+		<item wave="11" lineId="1" time="332" monsterType="5"
+			monsterLevel="1" />
+		<item wave="11" lineId="4" time="342" monsterType="12"
+			monsterLevel="1" />
+		<item wave="11" lineId="4" time="345" monsterType="12"
+			monsterLevel="1" />
+		<item wave="11" lineId="4" time="345" monsterType="12"
+			monsterLevel="1" />
+		<item wave="11" lineId="4" time="345" monsterType="12"
+			monsterLevel="1" />
+		<item wave="11" lineId="4" time="345" monsterType="12"
+			monsterLevel="1" />
+		<item wave="11" lineId="5" time="349" monsterType="12"
+			monsterLevel="1" />
+		<item wave="11" lineId="5" time="349" monsterType="12"
+			monsterLevel="1" />
+		<item wave="11" lineId="5" time="350" monsterType="12"
+			monsterLevel="1" />
+		<item wave="11" lineId="5" time="360" monsterType="12"
+			monsterLevel="1" />
+		<item wave="11" lineId="5" time="341" monsterType="12"
+			monsterLevel="1" />
+		<item wave="11" lineId="4" time="341" monsterType="13"
+			monsterLevel="1" />
+		<item wave="11" lineId="5" time="342" monsterType="13"
+			monsterLevel="1" />
+			
+		<item wave="12" lineId="1" time="360" monsterType="3"
+			monsterLevel="1" /> <!--黄怪 -->
+		<item wave="12" lineId="0" time="360" monsterType="3"
+			monsterLevel="1" />
+		<item wave="12" lineId="2" time="360" monsterType="18"
+			monsterLevel="1" />
+		<item wave="12" lineId="3" time="360" monsterType="18"
+			monsterLevel="1" />
+		<item wave="12" lineId="0" time="362" monsterType="18"
+			monsterLevel="1" />
+		<item wave="12" lineId="1" time="262" monsterType="18"
+			monsterLevel="1" />
+		<item wave="12" lineId="0" time="363" monsterType="17"
+			monsterLevel="1" />
+		<item wave="12" lineId="1" time="363" monsterType="17"
+			monsterLevel="1" />
+		<item wave="12" lineId="2" time="365" monsterType="17"
+			monsterLevel="1" />
+		<item wave="12" lineId="3" time="365" monsterType="7"
+			monsterLevel="1" />
+		<item wave="12" lineId="2" time="362" monsterType="1"
+			monsterLevel="1" />
+		<item wave="12" lineId="3" time="362" monsterType="1"
+			monsterLevel="1" />
+		<item wave="12" lineId="0" time="365" monsterType="5"
+			monsterLevel="1" />
+		<item wave="12" lineId="1" time="365" monsterType="1"
+			monsterLevel="1" />
+		<item wave="12" lineId="2" time="365" monsterType="1"
+			monsterLevel="1" />
+		<item wave="12" lineId="3" time="365" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="2" time="369" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="3" time="369" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="2" time="370" monsterType="11"
+			monsterLevel="1" />
+		<item wave="12" lineId="3" time="370" monsterType="5"
+			monsterLevel="1" />
+		<item wave="12" lineId="2" time="371" monsterType="5"
+			monsterLevel="1" />
+		<item wave="12" lineId="3" time="371" monsterType="5"
+			monsterLevel="1" />
+		<item wave="12" lineId="1" time="372" monsterType="5"
+			monsterLevel="1" />
+		<item wave="12" lineId="4" time="372" monsterType="12"
+			monsterLevel="1" />
+		<item wave="12" lineId="4" time="375" monsterType="12"
+			monsterLevel="1" />
+		<item wave="12" lineId="4" time="375" monsterType="12"
+			monsterLevel="1" />
+		<item wave="12" lineId="4" time="375" monsterType="12"
+			monsterLevel="1" />
+		<item wave="12" lineId="4" time="375" monsterType="12"
+			monsterLevel="1" />
+		<item wave="12" lineId="5" time="379" monsterType="12"
+			monsterLevel="1" />
+		<item wave="12" lineId="5" time="379" monsterType="12"
+			monsterLevel="1" />
+		<item wave="12" lineId="5" time="380" monsterType="12"
+			monsterLevel="1" />
+		<item wave="12" lineId="5" time="380" monsterType="12"
+			monsterLevel="1" />
+		<item wave="12" lineId="5" time="381" monsterType="12"
+			monsterLevel="1" />
+		<item wave="12" lineId="4" time="381" monsterType="13"
+			monsterLevel="1" />
+		<item wave="12" lineId="5" time="382" monsterType="13"
+			monsterLevel="1" />
+			
+		<item wave="13" lineId="1" time="400" monsterType="3"
+			monsterLevel="1" />
+		<item wave="13" lineId="0" time="400" monsterType="3"
+			monsterLevel="1" />
+		<item wave="13" lineId="2" time="400" monsterType="19"
+			monsterLevel="1" />
+		<item wave="13" lineId="3" time="400" monsterType="19"
+			monsterLevel="1" />
+		<item wave="13" lineId="0" time="402" monsterType="17"
+			monsterLevel="1" />
+		<item wave="13" lineId="1" time="402" monsterType="17"
+			monsterLevel="1" />
+		<item wave="13" lineId="5" time="403" monsterType="18"
+			monsterLevel="1" />
+		<item wave="13" lineId="4" time="403" monsterType="18"
+			monsterLevel="1" />
+		<item wave="13" lineId="0" time="405" monsterType="18"
+			monsterLevel="1" />
+		<item wave="13" lineId="1" time="405" monsterType="18"
+			monsterLevel="1" />
+		<item wave="13" lineId="2" time="405" monsterType="18"
+			monsterLevel="1" />
+		<item wave="13" lineId="3" time="405" monsterType="18"
+			monsterLevel="1" />
+		<item wave="13" lineId="2" time="402" monsterType="1"
+			monsterLevel="1" />
+		<item wave="13" lineId="3" time="402" monsterType="1"
+			monsterLevel="1" />
+		<item wave="13" lineId="0" time="405" monsterType="6"
+			monsterLevel="1" />
+		<item wave="13" lineId="1" time="405" monsterType="1"
+			monsterLevel="1" />
+		<item wave="13" lineId="2" time="405" monsterType="1"
+			monsterLevel="1" />
+		<item wave="13" lineId="3" time="405" monsterType="11"
+			monsterLevel="1" />
+		<item wave="13" lineId="2" time="409" monsterType="11"
+			monsterLevel="1" />
+		<item wave="13" lineId="3" time="409" monsterType="11"
+			monsterLevel="1" />
+		<item wave="13" lineId="2" time="410" monsterType="11"
+			monsterLevel="1" />
+		<item wave="13" lineId="3" time="410" monsterType="19"
+			monsterLevel="1" />
+		<item wave="13" lineId="2" time="410" monsterType="19"
+			monsterLevel="1" />
+		<item wave="13" lineId="3" time="411" monsterType="6"
+			monsterLevel="1" />
+		<item wave="13" lineId="1" time="412" monsterType="6"
+			monsterLevel="1" />
+		<item wave="13" lineId="4" time="412" monsterType="12"
+			monsterLevel="1" />
+		<item wave="13" lineId="4" time="415" monsterType="12"
+			monsterLevel="1" />
+		<item wave="13" lineId="4" time="415" monsterType="12"
+			monsterLevel="1" />
+		<item wave="13" lineId="4" time="415" monsterType="12"
+			monsterLevel="1" />
+		<item wave="13" lineId="4" time="415" monsterType="12"
+			monsterLevel="1" />
+		<item wave="13" lineId="5" time="419" monsterType="12"
+			monsterLevel="1" />
+		<item wave="13" lineId="5" time="419" monsterType="12"
+			monsterLevel="1" />
+		<item wave="13" lineId="5" time="420" monsterType="12"
+			monsterLevel="1" />
+		<item wave="13" lineId="5" time="420" monsterType="13"
+			monsterLevel="1" />
+		<item wave="13" lineId="5" time="420" monsterType="13"
+			monsterLevel="1" />
+		<item wave="13" lineId="4" time="421" monsterType="12"
+			monsterLevel="1" />
+		<item wave="13" lineId="5" time="422" monsterType="12"
+			monsterLevel="1" />	
+		<item wave="14" lineId="1" time="470" monsterType="14"
+			monsterLevel="1" />
+	</chapter>
+</root>

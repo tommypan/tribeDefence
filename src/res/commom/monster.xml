@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<item type="1"> 		<!-- id标示，骑马的精灵，本来是我方的，现在就当怪处理。 必须用引号括住 -->
+		<level>1</level>              <!--等级1（最多有三个等级） -->
+		<bllod>100</bllod> 		      <!--血量 -->
+		<attckPower>30</attckPower>   <!--攻击力0-20 -->
+		<describe>一阶小怪</describe>  <!--描述 -->
+		<speed>2</speed>	          <!--行走速度X -->
+		<money>20</money>	<!--攻击范围，主要是指纵向差距多少时开启碰撞检测 20-50 -->
+		<reflectName>Default110</reflectName> <!-- 类反射名字 -->
+		<isflying>0</isflying>         <!--0代表false，不是 -->
+	</item>
+	<item type="2"> 		<!-- id标示 ，小雪人 -->
+		<level>1</level>              <!--等级1（最多有三个等级） -->
+		<bllod>400</bllod> 		      <!--血量 -->
+		<attckPower>10</attckPower>   <!--攻击力0-20 -->
+		<describe>一阶小怪</describe>  <!--描述 -->
+		<speed>2</speed>	          <!--行走速度X -->
+		<money>20</money>	<!--攻击范围，主要是指纵向差距多少时开启碰撞检测 20-50 -->
+		<reflectName>Default120</reflectName> <!-- 类反射名字 -->
+		<isflying>0</isflying>         <!--0代表false，不是 -->
+	</item>
+
+	<item type="3"> 		<!-- id标示，可以引出僵尸的怪 -->
+		<level>1</level>              <!--等级1（最多有三个等级） -->
+		<bllod>80</bllod> 		      <!--血量 -->
+		<attckPower>10</attckPower>   <!--攻击力0-20 -->
+		<describe>一阶小怪</describe>  <!--描述 -->
+		<speed>2</speed>	          <!--行走速度X -->
+		<money>20</money>	<!--攻击范围，主要是指纵向差距多少时开启碰撞检测 20-50 -->
+		<reflectName>Default130</reflectName> <!-- 类反射名字 -->
+		<isflying>0</isflying>         <!--0代表false，不是 -->
+	</item>
+
+	<item type="4"> 		<!-- id标示，机器飞翔怪 -->
+		<level>1</level>              <!--等级1（最多有三个等级） -->
+		<bllod>50</bllod> 		      <!--血量 -->
+		<attckPower>25</attckPower>   <!--攻击力0-20 -->
+		<describe>一阶小怪</describe>  <!--描述 -->
+		<speed>2</speed>	          <!--行走速度X -->
+		<money>20</money>	<!--攻击范围，主要是指纵向差距多少时开启碰撞检测 20-50 -->
+		<reflectName>Default140</reflectName> <!-- 类反射名字 -->
+		<isflying>1</isflying>         <!--0代表false，不是 -->
+	</item>
+
+	<item type="5"> 		<!-- id标示，修房子的那个精灵,被暂时当做小黄人 -->
+		<level>1</level>              <!--等级1（最多有三个等级） -->
+		<bllod>70</bllod> 		      <!--血量 -->
+		<attckPower>10</attckPower>   <!--攻击力0-20 -->
+		<describe>一阶小怪</describe>  <!--描述 -->
+		<speed>2</speed>	          <!--行走速度X -->
+		<money>20</money>	<!--攻击范围，主要是指纵向差距多少时开启碰撞检测 20-50 -->
+		<reflectName>Default150</reflectName> <!-- 类反射名字 -->
+		<isflying>0</isflying>         <!--0代表false，不是 -->
+	</item>
+
+	<item type="6"> 		<!-- id标示 ，打鼓的那个黄怪 -->
+		<level>1</level>              <!--等级1（最多有三个等级） -->
+		<bllod>200</bllod> 		      <!--血量 -->
+		<attckPower>10</attckPower>   <!--攻击力0-20 -->
+		<describe>一阶小怪</describe>  <!--描述 -->
+		<speed>2</speed>	          <!--行走速度X -->
+		<money>20</money>	<!--攻击范围，主要是指纵向差距多少时开启碰撞检测 20-50 -->
+		<reflectName>Default210</reflectName> <!-- 类反射名字 -->
+		<isflying>0</isflying>         <!--0代表false，不是 -->
+	</item>
+
+	<item type="7"> 		<!-- id标示，大黄石人怪 -->
+		<level>1</level>              <!--等级1（最多有三个等级） -->
+		<bllod>400</bllod> 		      <!--血量 -->
+		<attckPower>10</attckPower>   <!--攻击力0-20 -->
+		<describe>一阶小怪</describe>  <!--描述 -->
+		<speed>2</speed>	          <!--行走速度X -->
+		<money>20</money>	<!--攻击范围，主要是指纵向差距多少时开启碰撞检测 20-50 -->
+		<reflectName>Default220</reflectName> <!-- 类反射名字 -->
+		<isflying>0</isflying>         <!--0代表false，不是 -->
+	</item>
+
+	<item type="8"> 		<!-- id标示 ，最后一关的boss，进化前 -->
+		<level>1</level>              <!--等级1（最多有三个等级） -->
+		<bllod>1000</bllod> 		      <!--血量 -->
+		<attckPower>10</attckPower>   <!--攻击力0-20 -->
+		<describe>一阶小怪</describe>  <!--描述 -->
+		<speed>2</speed>	          <!--行走速度X -->
+		<money>20</money>	<!--攻击范围，主要是指纵向差距多少时开启碰撞检测 20-50 -->
+		<reflectName>Default230</reflectName> <!-- 类反射名字 -->
+		<isflying>0</isflying>         <!--0代表false，不是 -->
+	</item>
+
+	<item type="9"> 		<!-- id标示，黄蝙蝠 -->
+		<level>1</level>              <!--等级1（最多有三个等级） -->
+		<bllod>60</bllod> 		      <!--血量 -->
+		<attckPower>10</attckPower>   <!--攻击力0-20 -->
+		<describe>一阶小怪</describe>  <!--描述 -->
+		<speed>2</speed>	          <!--行走速度X -->
+		<money>20</money>	<!--攻击范围，主要是指纵向差距多少时开启碰撞检测 20-50 -->
+		<reflectName>Default240</reflectName> <!-- 类反射名字 -->
+		<isflying>1</isflying>         <!--0代表false，不是 -->
+	</item>
+
+	<item type="10"> 		<!-- id标示，射箭 -->
+		<level>1</level>              <!--等级1（最多有三个等级） -->
+		<bllod>80</bllod> 		      <!--血量 -->
+		<attckPower>10</attckPower>   <!--攻击力0-20 -->
+		<describe>一阶小怪</describe>  <!--描述 -->
+		<speed>2</speed>	          <!--行走速度X -->
+		<money>20</money>	<!--攻击范围，主要是指纵向差距多少时开启碰撞检测 20-50 -->
+		<reflectName>Default250</reflectName> <!-- 类反射名字 -->
+		<isflying>0</isflying>         <!--0代表false，不是 -->
+	</item>
+
+	<item type="11"> 		<!-- id标示，白狗 -->
+		<level>1</level>              <!--等级1（最多有三个等级） -->
+		<bllod>30</bllod> 		      <!--血量 -->
+		<attckPower>15</attckPower>   <!--攻击力0-20 -->
+		<describe>一阶小怪</describe>  <!--描述 -->
+		<speed>3.5</speed>	          <!--行走速度X -->
+		<money>20</money>	<!--攻击范围，主要是指纵向差距多少时开启碰撞检测 20-50 -->
+		<reflectName>Default801</reflectName> <!-- 类反射名字 -->
+		<isflying>0</isflying>         <!--0代表false，不是 -->
+	</item>
+
+	<item type="12"> 		<!-- id标示，小僵尸 -->
+		<level>1</level>              <!--等级1（最多有三个等级） -->
+		<bllod>60</bllod> 		      <!--血量 -->
+		<attckPower>10</attckPower>   <!--攻击力0-20 -->
+		<describe>一阶小怪</describe>  <!--描述 -->
+		<speed>2</speed>	          <!--行走速度X -->
+		<money>20</money>	<!--攻击范围，主要是指纵向差距多少时开启碰撞检测 20-50 -->
+		<reflectName>Default802</reflectName> <!-- 类反射名字 -->
+		<isflying>0</isflying>         <!--0代表false，不是 -->
+	</item>
+
+	<item type="13"> 		<!-- id标示，大僵尸 -->
+		<level>1</level>              <!--等级1（最多有三个等级） -->
+		<bllod>150</bllod> 		      <!--血量 -->
+		<attckPower>10</attckPower>   <!--攻击力0-20 -->
+		<describe>一阶小怪</describe>  <!--描述 -->
+		<speed>2</speed>	          <!--行走速度X -->
+		<money>20</money>	<!--攻击范围，主要是指纵向差距多少时开启碰撞检测 20-50 -->
+		<reflectName>Default803</reflectName> <!-- 类反射名字 -->
+		<isflying>0</isflying>         <!--0代表false，不是 -->
+	</item>
+
+	<item type="14"> 		<!-- id标示 ，最后一关的boss -->
+		<level>1</level>              <!--等级1（最多有三个等级） -->
+		<bllod>6600</bllod> 		      <!--血量 -->
+		<attckPower>20</attckPower>   <!--攻击力0-20 -->
+		<describe>一阶小怪</describe>  <!--描述 -->
+		<speed>1</speed>	          <!--行走速度X -->
+		<money>20</money>	<!--攻击范围，主要是指纵向差距多少时开启碰撞检测 20-50 -->
+		<reflectName>Default901</reflectName> <!-- 类反射名字 -->
+		<isflying>0</isflying>         <!--0代表false，不是 -->
+	</item>
+
+	<item type="15"> 		<!-- id标示，大蜘蛛 -->
+		<level>1</level>              <!--等级1（最多有三个等级） -->
+		<bllod>200</bllod> 		      <!--血量 -->
+		<attckPower>10</attckPower>   <!--攻击力0-20 -->
+		<describe>一阶小怪</describe>  <!--描述 -->
+		<speed>2</speed>	          <!--行走速度X -->
+		<money>20</money>	<!--攻击范围，主要是指纵向差距多少时开启碰撞检测 20-50 -->
+		<reflectName>Default902</reflectName> <!-- 类反射名字 -->
+		<isflying>0</isflying>         <!--0代表false，不是 -->
+	</item>
+
+	<item type="16"> 		<!-- id标示，大雪人 -->
+		<level>1</level>              <!--等级1（最多有三个等级） -->
+		<bllod>700</bllod> 		      <!--血量 -->
+		<attckPower>10</attckPower>   <!--攻击力0-20 -->
+		<describe>一阶小怪</describe>  <!--描述 -->
+		<speed>2</speed>	          <!--行走速度X -->
+		<money>20</money>	<!--攻击范围，主要是指纵向差距多少时开启碰撞检测 20-50 -->
+		<reflectName>Default903</reflectName> <!-- 类反射名字 -->
+		<isflying>0</isflying>         <!--0代表false，不是 -->
+	</item>
+
+	<item type="17"> 		<!-- id标示，中途会加血的黄怪 -->
+		<level>1</level>              <!--等级1（最多有三个等级） -->
+		<bllod>60</bllod> 		      <!--血量 -->
+		<attckPower>10</attckPower>   <!--攻击力0-20 -->
+		<describe>一阶小怪</describe>  <!--描述 -->
+		<speed>2</speed>	          <!--行走速度X -->
+		<money>20</money>	<!--攻击范围，主要是指纵向差距多少时开启碰撞检测 20-50 -->
+		<reflectName>Default9366</reflectName> <!-- 类反射名字 -->
+		<isflying>0</isflying>         <!--0代表false，不是 -->
+	</item>
+
+	<item type="18"> 		<!-- id标示 ，胖子，棒槌怪，但是走的慢，血多 -->
+		<level>1</level>              <!--等级1（最多有三个等级） -->
+		<bllod>100</bllod> 		      <!--血量 -->
+		<attckPower>50</attckPower>   <!--攻击力0-20 -->
+		<describe>一阶小怪</describe>  <!--描述 -->
+		<speed>2</speed>	          <!--行走速度X -->
+		<money>20</money>	<!--攻击范围，主要是指纵向差距多少时开启碰撞检测 20-50 -->
+		<reflectName>Default9763</reflectName> <!-- 类反射名字 -->
+		<isflying>0</isflying>         <!--0代表false，不是 -->
+	</item>
+
+	<item type="19"> 		<!-- id标示 ，拿叉子的大怪，长得就像棒槌怪 -->
+		<level>1</level>              <!--等级1（最多有三个等级） -->
+		<bllod>100</bllod> 		      <!--血量 -->
+		<attckPower>50</attckPower>   <!--攻击力0-20 -->
+		<describe>一阶小怪</describe>  <!--描述 -->
+		<speed>2</speed>	          <!--行走速度X -->
+		<money>20</money>	<!--攻击范围，主要是指纵向差距多少时开启碰撞检测 20-50 -->
+		<reflectName>Default10087</reflectName> <!-- 类反射名字 -->
+		<isflying>0</isflying>         <!--0代表false，不是 -->
+	</item>
+
+	<item type="20"> 		<!-- id标示，小地精 -->
+		<level>1</level>              <!--等级1（最多有三个等级） -->
+		<bllod>10</bllod> 		      <!--血量 -->
+		<attckPower>10</attckPower>   <!--攻击力0-20 -->
+		<describe>一阶小怪</describe>  <!--描述 -->
+		<speed>2</speed>	          <!--行走速度X -->
+		<money>20</money>	<!--攻击范围，主要是指纵向差距多少时开启碰撞检测 20-50 -->
+		<reflectName>Default10331</reflectName> <!-- 类反射名字 -->
+		<isflying>0</isflying>         <!--0代表false，不是 -->
+	</item>
+
+	<item type="21"> 		<!-- id标示 ,大地精 -->
+		<level>1</level>              <!--等级1（最多有三个等级） -->
+		<bllod>30</bllod> 		      <!--血量 -->
+		<attckPower>20</attckPower>   <!--攻击力0-20 -->
+		<describe>一阶小怪</describe>  <!--描述 -->
+		<speed>2</speed>	          <!--行走速度X -->
+		<money>20</money>	<!--攻击范围，主要是指纵向差距多少时开启碰撞检测 20-50 -->
+		<reflectName>Default10507</reflectName> <!-- 类反射名字 -->
+		<isflying>0</isflying>         <!--0代表false，不是 -->
+	</item>
+
+	<item type="22"> 		<!-- id标示 ,跑的快，那个红颜色的怪 -->
+		<level>1</level>              <!--等级1（最多有三个等级） -->
+		<bllod>20</bllod> 		      <!--血量 -->
+		<attckPower>15</attckPower>   <!--攻击力0-20 -->
+		<describe>一阶小怪</describe>  <!--描述 -->
+		<speed>3.5</speed>	          <!--行走速度X -->
+		<money>20</money>	<!--攻击范围，主要是指纵向差距多少时开启碰撞检测 20-50 -->
+		<reflectName>Default10812</reflectName> <!-- 类反射名字 -->
+		<isflying>0</isflying>         <!--0代表false，不是 -->
+	</item>
+</root>

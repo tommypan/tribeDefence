@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<item chap="1" life="5" money="300" wave="7" />  <!-- 敌军id，等级，初始化x，y坐标 -->
+	<item chap="2" life="20" money="285" wave="7" />
+	<item chap="3" life="20" money="390" wave="7" />
+	<item chap="4" life="20" money="800" wave="10" />
+	<item chap="5" life="20" money="900" wave="11" />
+	<item chap="6" life="20" money="900" wave="11" />
+	<item chap="7" life="20" money="900" wave="11" />
+	<item chap="8" life="20" money="1000" wave="10" />
+	<item chap="9" life="20" money="1000" wave="10" />
+	<item chap="10" life="20" money="1000" wave="13" />
+	<item chap="11" life="20" money="1600" wave="13" />
+	<item chap="12" life="20" money="1800" wave="14" />
+</root>
